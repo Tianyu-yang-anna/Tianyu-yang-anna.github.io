@@ -17,9 +17,19 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+<span class='anchor' id='about-me'></span>
+
+I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://xiangliangzhang.com/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a>.  
+
+Before joining Notre Dame, I earned my B.E. degree in Electrical Engineering from <a href="https://en.bjtu.edu.cn/" target="_blank">Beijing Jiaotong University</a> and an M.S. in Research from <a href="https://www.columbia.edu/" target="_blank">Columbia University</a>. I also interned at <a href="https://opencv.org/" target="_blank">Intel’s OpenCV organization</a>, working with <a href="https://github.com/dkurt" target="_blank">Dmitry Matveev</a>.  
+
+My research interests include multimodal learning, focusing on leveraging multimodal data (e.g., language, vision, and audio) to interact with the physical world.
 
 
 # 🔥 News
