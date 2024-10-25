@@ -41,7 +41,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='new1.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answe]
