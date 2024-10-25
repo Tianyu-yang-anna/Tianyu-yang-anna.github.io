@@ -33,17 +33,22 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09*: &nbsp;🎉🎉 One first-author paper accepted by EMNLP 2024.
+- *2024.05*: I have Passed Qulitfy Exam.
+- *2024.05*: &nbsp;🎉🎉 One paper accepted by ACL 2024.
+- *2023.10*: &nbsp;🎉🎉 One paper accepted by EMNLP 2023.
+- *2023.06*: I started open source project woking at Intel OpenCV.org.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answe]
+(https://openreview.net/pdf?id=H2FjGXTFyd)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+**Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng and Xiangliang Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -52,17 +57,33 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 – Present*, **University of Notre Dame, South Bend, IN**  
+  PhD in Computer Science
+- *2019.09 – 2021.05*, **Columbia University, New York, NY**  
+  Research MS in Electrical Engineering
+- *2017.09 – 2021.05*, **Beijing Jiaotong University, Beijing, China**  
+  BS in Automation
+  
+# 🎖 Honors and Awards
+- *2023*, Summer Research Scholarship at University of Notre Dame  
+- *2021*, MS Elective Research Scholarship at Columbia University (Top 1%)  
+- *2020*, **First-Class**: National Mathematical Contest in Modeling (Top 1.4%)  
+- *2020*, **First-Class**: Academic Scholarships of BJTU (Top 2%)  
+- *2018*, **National**: China National Scholarship (Top 0.8%)
+  
+# 💬 Personal Service
+- *2025*, Reviewer | NAACL  
+- *2024*, Reviewer | EMNLP  
+- *2024*, Reviewer | ACL  
+- *2024*, Reviewer | ICDM
+- *2024*, Undergraduate Student's Mentor | CS Dept., Notre Dame  
+- *2023*, Teaching Assistant | COMS 4232 Advanced Algorithms | CS Dept., Columbia University  
+- *2023*, Teaching Assistant | EECS 6892 Reinforcement Learning in Information Systems | CS Dept., Columbia University  
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 WORK EXPERIENCE
+- *2023.05 – 2023.08*, **Intel & OpenCV.org (Google Summer of Code)**  
+  Mentor: Dmitry Matveev  
+ 
