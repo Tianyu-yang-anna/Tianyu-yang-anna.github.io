@@ -44,7 +44,21 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/new1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box' style="display: flex; align-items: flex-start; gap: 10px;">
+  <div class='paper-box-image' style="flex: 0 0 150px; max-width: 150px;">
+    <div>
+      <div class="badge">EMNLP 2024</div>
+      <img src='images/new1.png' alt="sym" style="width: 100%; height: auto;">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex: 1;">
+    [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://openreview.net/pdf?id=H2FjGXTFyd)
+
+    **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng, and Xiangliang Zhang
+  </div>
+</div>
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/new1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://openreview.net/pdf?id=H2FjGXTFyd)
@@ -56,7 +70,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> -->
 
 
 
