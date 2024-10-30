@@ -15,8 +15,8 @@ main:
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Personal Service"
-    url: "/#-invited-talks"
+  # - title: "Personal Service"
+  #   url: "/#-invited-talks"
 
-  - title: "WORK EXPERIENCE"
-    url: "/#-internships"
+  # - title: "WORK EXPERIENCE"
+  #   url: "/#-internships"

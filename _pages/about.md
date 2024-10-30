@@ -45,8 +45,8 @@ My research interests include multimodal learning, focusing on leveraging multim
 # 📝 Publications 
 
 - ``EMNLP 2024`` [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://openreview.net/pdf?id=H2FjGXTFyd), **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng and Xiangliang Zhang.
-- ``EMNLP 2023`` [UniMath: A Foundational and Multimodal Mathematical Reasoner](https://aclanthology.org/2023.emnlp-main.440/), Zhenwen Liang, **Tianyu Yang**, Jipeng Zhang, and Xiangliang Zhang.  
 - ``ACL 2024`` [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://arxiv.org/abs/2402.05138), Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, **Tianyu Yang**, Jiajun Jiao, Renjie Pi, Jipeng Zhang, and Xiangliang Zhang.  
+- ``EMNLP 2023`` [UniMath: A Foundational and Multimodal Mathematical Reasoner](https://aclanthology.org/2023.emnlp-main.440/), Zhenwen Liang, **Tianyu Yang**, Jipeng Zhang, and Xiangliang Zhang.  
 - ``IJCCC`` [Ensemble Learning for Interpretable Concept Drift and Its Application to Drug Recommendation](https://www.univagora.ro/jour/index.php/ijccc/article/view/5011), Yunjuan Peng, Qi Qiu, Dalin Zhang, **Tianyu Yang**, and Hailong Zhang.  
 - ``ICCE 2020`` [Automatic Trace Recognition of Ionogram with YOLOv3](https://ieeexplore.ieee.org/abstract/document/9258025), Taiyuan Gong, Fan Sang, **Tianyu Yang**, and Ziwei Chen.  
 
