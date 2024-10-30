@@ -44,29 +44,8 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 # 📝 Publications 
 
-<div class='paper-box' style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
-  <div class='paper-box-image' style="flex: 0 0 500px; max-width: 500px;">
-    <div style="position: relative;">
-      <div class="badge" style="position: absolute; top: 10px; left: 10px; background-color: #1e3a8a; color: white; padding: 5px 10px; border-radius: 5px;">
-        EMNLP 2024
-      </div>
-      <img src="images/new1.png" alt="sym" style="width: 500px; height: 300px; object-fit: cover; border-radius: 10px;">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1" style="flex: 1;">
-    <a href="https://openreview.net/pdf?id=H2FjGXTFyd" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #1a0dab;">
-      SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer
-    </a>
 
-    <p style="margin: 10px 0; font-size: 16px;">
-      **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng, and Xiangliang Zhang
-    </p>
-  </div>
-</div>
-
-
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/new1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='i' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://openreview.net/pdf?id=H2FjGXTFyd)
@@ -78,9 +57,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** --> -->
-
-
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 # 📖 Educations
