@@ -28,7 +28,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 -->
 
-Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://xiangliangzhang.com/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a>.  
+Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a>.  
 
 Before joining Notre Dame, I earned my B.E. degree in Electrical Engineering from <a href="https://en.bjtu.edu.cn/" target="_blank">Beijing Jiaotong University</a> and an M.S. in Research from <a href="https://www.columbia.edu/" target="_blank">Columbia University</a>. I also interned at <a href="https://opencv.org/" target="_blank">Intel’s OpenCV organization</a>, working with <a href="https://github.com/dkurt" target="_blank">Dmitry Matveev</a>.  
 
