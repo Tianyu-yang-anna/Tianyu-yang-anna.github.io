@@ -28,7 +28,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 -->
 
-I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://xiangliangzhang.com/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a>.  
+Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://xiangliangzhang.com/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a>.  
 
 Before joining Notre Dame, I earned my B.E. degree in Electrical Engineering from <a href="https://en.bjtu.edu.cn/" target="_blank">Beijing Jiaotong University</a> and an M.S. in Research from <a href="https://www.columbia.edu/" target="_blank">Columbia University</a>. I also interned at <a href="https://opencv.org/" target="_blank">Intel’s OpenCV organization</a>, working with <a href="https://github.com/dkurt" target="_blank">Dmitry Matveev</a>.  
 
@@ -44,13 +44,15 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 # 📝 Publications 
 
+- ``EMNLP 2024`` [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://openreview.net/pdf?id=H2FjGXTFyd), **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng and Xiangliang Zhang.
+- ``EMNLP 2023`` [UniMath: A Foundational and Multimodal Mathematical Reasoner](https://aclanthology.org/2023.emnlp-main.440/), Zhenwen Liang, **Tianyu Yang**, Jipeng Zhang, and Xiangliang Zhang.  
+- ``ACL 2024`` [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://arxiv.org/abs/2402.05138), Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, **Tianyu Yang**, Jiajun Jiao, Renjie Pi, Jipeng Zhang, and Xiangliang Zhang.  
+- ``INTERNATIONAL JOURNAL OF COMPUTERS COMMUNICATIONS & CONTROL`` [Ensemble Learning for Interpretable Concept Drift and Its Application to Drug Recommendation](https://www.univagora.ro/jour/index.php/ijccc/article/view/5011), Yunjuan Peng, Qi Qiu, Dalin Zhang, **Tianyu Yang**, and Hailong Zhang.  
+- ``ICCE 2020`` [Automatic Trace Recognition of Ionogram with YOLOv3](https://ieeexplore.ieee.org/abstract/document/9258025), Taiyuan Gong, Fan Sang, **Tianyu Yang**, and Ziwei Chen.  
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='i' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
 
-- [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://openreview.net/pdf?id=H2FjGXTFyd)
 
-**Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng and Xiangliang Zhang, **CVPR 2020** -->
+
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
