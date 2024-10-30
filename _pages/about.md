@@ -44,7 +44,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='new1.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/new1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answe]
@@ -53,12 +53,12 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng and Xiangliang Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 
 # 📖 Educations
@@ -71,20 +71,19 @@ My research interests include multimodal learning, focusing on leveraging multim
   
 # 🎖 Honors and Awards
 - *2023*, Summer Research Scholarship at University of Notre Dame  
-- *2021*, MS Elective Research Scholarship at Columbia University (Top 1%)  
-- *2020*, **First-Class**: National Mathematical Contest in Modeling (Top 1.4%)  
-- *2020*, **First-Class**: Academic Scholarships of BJTU (Top 2%)  
-- *2018*, **National**: China National Scholarship (Top 0.8%)
+- *2021*, MS Elective Research Scholarship at Columbia University   
+- *2020*, **First-Class**: National Mathematical Contest in Modeling  
+- *2020*, **First-Class**: Academic Scholarships of BJTU 
+- *2018*, **National**: China National Scholarship 
   
 # 💬 Personal Service
-- *2025*, Reviewer | NAACL  
-- *2024*, Reviewer | EMNLP  
-- *2024*, Reviewer | ACL  
-- *2024*, Reviewer | ICDM
-- *2024*, Undergraduate Student's Mentor | CS Dept., Notre Dame  
-- *2023*, Teaching Assistant | COMS 4232 Advanced Algorithms | CS Dept., Columbia University  
-- *2023*, Teaching Assistant | EECS 6892 Reinforcement Learning in Information Systems | CS Dept., Columbia University  
-
+- *2025*, Reviewer at NAACL  
+- *2024*, Reviewer at EMNLP  
+- *2024*, Reviewer at ACL  
+- *2024*, Reviewer at ICDM
+- *2024*, Undergraduate Mentor at the Department of Computer Science, Notre Dame
+- *2023*, Teaching Assistant for Advanced Algorithms at the Department of Computer Science, Columbia University
+- *2023*, Teaching Assistant for Reinforcement Learning at the Department of Computer Science, Columbia University 
 
 # 💻 WORK EXPERIENCE
 - *2023.05 – 2023.08*, **Intel & OpenCV.org (Google Summer of Code)**  
