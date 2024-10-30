@@ -44,11 +44,11 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 # 📝 Publications 
 
-<div class='paper-box' style="display: flex; align-items: flex-start; gap: 10px;">
-  <div class='paper-box-image' style="flex: 0 0 150px; max-width: 150px;">
+<div class='paper-box' style="display: flex; align-items: flex-start; gap: 15px;">
+  <div class='paper-box-image' style="flex: 0 0 500px; max-width: 500px;">
     <div>
       <div class="badge">EMNLP 2024</div>
-      <img src='images/new1.png' alt="sym" style="width: 100%; height: auto;">
+      <img src='images/new1.png' alt="sym" style="width: 500px; height: 300px; object-fit: cover;">
     </div>
   </div>
   <div class='paper-box-text' markdown="1" style="flex: 1;">
@@ -57,6 +57,7 @@ My research interests include multimodal learning, focusing on leveraging multim
     **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng, and Xiangliang Zhang
   </div>
 </div>
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024</div><img src='images/new1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
