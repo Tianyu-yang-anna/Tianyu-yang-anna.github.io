@@ -14,7 +14,7 @@ google_scholar_stats_use_cdn : true
 # google analytics
 google_analytics_id      :  G-Y33WYF1CT8 # get google_analytics_id from https://analytics.google.com/analytics/
 
-# SEO Related
+# SEO Related 
 google_site_verification : google8a31321b36005b5c # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : tianyu-yang-55654b246
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
