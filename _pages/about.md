@@ -36,6 +36,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 
 # 🔥 News
+- *2024.10*: Our new paper about Multimodal modal Machine Unlearning is now available on arxiv! Reading list <a href="https://arxiv.org/abs/2410.23330" target="_blank">here</a>.
 - *2024.09*: &nbsp;🎉🎉 One first-author paper accepted by EMNLP 2024.
 - *2024.05*: I have passed Qulitfy Exam.
 - *2024.05*: &nbsp;🎉🎉 One paper accepted by ACL 2024.
@@ -43,7 +44,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 - *2023.06*: I started open source project woking at Intel OpenCV.org.
 
 # 📝 Publications 
-
+- ``Arxiv 2024`` [CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP](https://arxiv.org/abs/2410.23330), **Tianyu Yang**, Lisen Dai, Zheyuan Liu, Xiangqi Wang, Meng Jiang, Yapeng Tian, Xiangliang Zhang.
 - ``EMNLP 2024`` [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://openreview.net/pdf?id=H2FjGXTFyd), **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng and Xiangliang Zhang.
 - ``ACL 2024`` [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://arxiv.org/abs/2402.05138), Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, **Tianyu Yang**, Jiajun Jiao, Renjie Pi, Jipeng Zhang, and Xiangliang Zhang.  
 - ``EMNLP 2023`` [UniMath: A Foundational and Multimodal Mathematical Reasoner](https://aclanthology.org/2023.emnlp-main.440/), Zhenwen Liang, **Tianyu Yang**, Jipeng Zhang, and Xiangliang Zhang.  
