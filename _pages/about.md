@@ -36,7 +36,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 
 # 🔥 News
-- *2024.10*: One paper accepted by WSDM Demo Track 2025.
+- *2024.11*: One paper accepted by WSDM Demo Track 2025.
 - *2024.10*: Our new paper about Multimodal modal Machine Unlearning is now available on arxiv! Reading list <a href="https://arxiv.org/abs/2410.23330" target="_blank">here</a>.
 - *2024.09*: &nbsp;🎉🎉 One first-author paper accepted by EMNLP 2024.
 - *2024.05*: I have passed qualify exam.
