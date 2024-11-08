@@ -46,7 +46,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 # 📝 Publications 
 - ``Arxiv 2024`` [CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP](https://arxiv.org/abs/2410.23330), **Tianyu Yang**, Lisen Dai, Zheyuan Liu, Xiangqi Wang, Meng Jiang, Yapeng Tian, Xiangliang Zhang.
-- ``EMNLP 2024`` [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://openreview.net/pdf?id=H2FjGXTFyd), **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng and Xiangliang Zhang.
+- ``EMNLP 2024`` [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://arxiv.org/abs/2411.04933), **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng and Xiangliang Zhang.
 - ``WSDM 2025`` WildlifeLookup: A Chatbot Facilitating Wildlife Management with Accessible Data and Insights, Xiangqi Wang, **Tianyu Yang**,Jason Rohr,  Brett Scheffers, Nitesh Chawla and Xiangliang Zhang.
 - ``ACL 2024`` [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://arxiv.org/abs/2402.05138), Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, **Tianyu Yang**, Jiajun Jiao, Renjie Pi, Jipeng Zhang, and Xiangliang Zhang.  
 - ``EMNLP 2023`` [UniMath: A Foundational and Multimodal Mathematical Reasoner](https://aclanthology.org/2023.emnlp-main.440/), Zhenwen Liang, **Tianyu Yang**, Jipeng Zhang, and Xiangliang Zhang.  
