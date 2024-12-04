@@ -50,10 +50,6 @@ My research interests include multimodal learning, focusing on leveraging multim
 - ``WSDM 2025`` WildlifeLookup: A Chatbot Facilitating Wildlife Management with Accessible Data and Insights, Xiangqi Wang, **Tianyu Yang**,Jason Rohr,  Brett Scheffers, Nitesh Chawla and Xiangliang Zhang.
 - ``ACL 2024`` [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://arxiv.org/abs/2402.05138), Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, **Tianyu Yang**, Jiajun Jiao, Renjie Pi, Jipeng Zhang, and Xiangliang Zhang.  
 - ``EMNLP 2023`` [UniMath: A Foundational and Multimodal Mathematical Reasoner](https://aclanthology.org/2023.emnlp-main.440/), Zhenwen Liang, **Tianyu Yang**, Jipeng Zhang, and Xiangliang Zhang.  
-- ``IJCCC`` [Ensemble Learning for Interpretable Concept Drift and Its Application to Drug Recommendation](https://www.univagora.ro/jour/index.php/ijccc/article/view/5011), Yunjuan Peng, Qi Qiu, Dalin Zhang, **Tianyu Yang**, and Hailong Zhang.  
-- ``ICCE 2020`` [Automatic Trace Recognition of Ionogram with YOLOv3](https://ieeexplore.ieee.org/abstract/document/9258025), Taiyuan Gong, Fan Sang, **Tianyu Yang**, and Ziwei Chen.  
-
-
 
 
 
@@ -73,12 +69,12 @@ My research interests include multimodal learning, focusing on leveraging multim
 - *2017.09 – 2021.05*, **Beijing Jiaotong University, Beijing, China**  
   BS in Automation
   
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2023*, Summer Research Scholarship at University of Notre Dame  
 - *2021*, MS Elective Research Scholarship at Columbia University   
 - *2020*, **First-Class**: National Mathematical Contest in Modeling  
 - *2020*, **First-Class**: Academic Scholarships of BJTU 
-- *2018*, **National**: China National Scholarship 
+- *2018*, **National**: China National Scholarship  -->
   
 # 💬 Personal Service
 - *2025*, Reviewer at NAACL  
