@@ -46,14 +46,14 @@ My research interests include multimodal learning, focusing on leveraging multim
 - *2023.06*: I started open source project woking at Intel OpenCV.org.
 
 # 📝 Publications 
-- ``ACL 2025`` [CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP], **Tianyu Yang**,
+- ``ACL 2025`` CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP, **Tianyu Yang**,
 , Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang.
 - ``EMNLP 2024`` [SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer](https://arxiv.org/abs/2411.04933), **Tianyu Yang**, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng and Xiangliang Zhang.
 - ``ACL 2025`` [Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving](https://arxiv.org/abs/2503.21821), Kaiyue Feng, Yilun Zhao, Yixin Liu, **Tianyu Yang**, Chen Zhao, John Sous and Arman Cohan.
 - ``ICLRW 2025`` [Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis](https://openreview.net/forum?id=ssCw35Jl44), Yicheng Lang, Kehan Guo, Yue Huang, Yujun Zhou, Haomin Zhuang, Tianyu Yang, Yao Su, and Xiangliang Zhang 
 - ``ICLRW 2025`` [Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving](https://arxiv.org/abs/2503.21821), Kaiyue Feng, Yilun Zhao, Yixin Liu, **Tianyu Yang**, Chen Zhao, John Sous and Arman Cohan.
 
-- ``WSDM 2025`` WildlifeLookup: A Chatbot Facilitating Wildlife Management with Accessible Data and Insights, (https://dl.acm.org/doi/abs/10.1145/3701551.3704121)Xiangqi Wang, **Tianyu Yang**,Jason Rohr,  Brett Scheffers, Nitesh Chawla and Xiangliang Zhang.
+- ``WSDM 2025`` [WildlifeLookup: A Chatbot Facilitating Wildlife Management with Accessible Data and Insights], (https://dl.acm.org/doi/abs/10.1145/3701551.3704121)Xiangqi Wang, **Tianyu Yang**,Jason Rohr,  Brett Scheffers, Nitesh Chawla and Xiangliang Zhang.
 - ``ACL 2024`` [SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark](https://arxiv.org/abs/2402.05138), Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, **Tianyu Yang**, Jiajun Jiao, Renjie Pi, Jipeng Zhang, and Xiangliang Zhang.  
 - ``EMNLP 2023`` [UniMath: A Foundational and Multimodal Mathematical Reasoner](https://aclanthology.org/2023.emnlp-main.440/), Zhenwen Liang, **Tianyu Yang**, Jipeng Zhang, and Xiangliang Zhang.  
 
