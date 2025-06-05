@@ -35,7 +35,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 # 🔥 News
 - *2025.05*: &nbsp;🎉🎉 Three paper accepted by ACL 2025.
-- *2025.05*: Started Research Scientist Internship at [Bosch AI](https://www.bosch-ai.com/).
+- *2025.05*: Started Research Scientist Internship at [Bosch Research](https://www.bosch-ai.com/).
 - *2025.05*: &nbsp;🎉🎉 Three paper accepted by ACL 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by Reasoning and Planning for LLMs @ ICLR 2025.
 - *2024.11*: &nbsp;🎉🎉 One paper accepted by WSDM 2025.
@@ -90,7 +90,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 - *2023*, Teaching Assistant for Reinforcement Learning at the Department of Computer Science, Columbia University 
 
 # 💻 WORK EXPERIENCE
-- *2025.05 – 2023.08*, **BOSCh AI**  
+- *2025.05 – 2023.08*, **Bosch Research**  
   Mentor: Zhenzhen Li
 
 - *2023.05 – 2023.08*, **Intel & OpenCV.org (Google Summer of Code)**  
