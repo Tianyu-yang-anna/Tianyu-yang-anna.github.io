@@ -66,7 +66,7 @@ My research interests include multimodal learning, focusing on leveraging multim
   <li>
     <a href="https://openreview.net/forum?id=ssCw35Jl44" style="color:black; text-decoration:underline;">Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis</a><br>
     Yicheng Lang, Kehan Guo, Yue Huang, Yujun Zhou, Haomin Zhuang, <strong>Tianyu Yang</strong>, Yao Su, Xiangliang Zhang<br>
-    <em>ICLRW 2025</em>
+    <em>ACL 2025</em>
   </li>
   <li>
     <a href="https://arxiv.org/abs/2503.21821" style="color:black; text-decoration:underline;">Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</a><br>
