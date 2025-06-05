@@ -45,50 +45,50 @@ My research interests include multimodal learning, focusing on leveraging multim
 - *2023.10*: &nbsp;🎉🎉 One paper accepted by EMNLP 2023.
 - *2023.06*: I started open source project woking at Intel OpenCV.org.
 
+
 <h1 id="-publications">📝 Publications</h1>
 <ul>
   <li>
-    <a href="#">CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP</a><br>
+    <a href="#" style="color:black; text-decoration:underline;">CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP</a><br>
     <strong>Tianyu Yang</strong>, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang<br>
-    <em><strong>ACL 2025</strong></em>
+    <em>ACL 2025</em>
   </li>
   <li>
-    <a href="https://arxiv.org/abs/2411.04933">SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer</a><br>
+    <a href="https://arxiv.org/abs/2411.04933" style="color:black; text-decoration:underline;">SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer</a><br>
     <strong>Tianyu Yang</strong>, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng, Xiangliang Zhang<br>
-    <em><strong>EMNLP 2024</strong></em>
+    <em>EMNLP 2024</em>
   </li>
   <li>
-    <a href="https://arxiv.org/abs/2503.21821">Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</a><br>
+    <a href="https://arxiv.org/abs/2503.21821" style="color:black; text-decoration:underline;">Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</a><br>
     Kaiyue Feng, Yilun Zhao, Yixin Liu, <strong>Tianyu Yang</strong>, Chen Zhao, John Sous, Arman Cohan<br>
-    <em><strong>ACL 2025</strong></em>
+    <em>ACL 2025</em>
   </li>
   <li>
-    <a href="https://openreview.net/forum?id=ssCw35Jl44">Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis</a><br>
+    <a href="https://openreview.net/forum?id=ssCw35Jl44" style="color:black; text-decoration:underline;">Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis</a><br>
     Yicheng Lang, Kehan Guo, Yue Huang, Yujun Zhou, Haomin Zhuang, <strong>Tianyu Yang</strong>, Yao Su, Xiangliang Zhang<br>
-    <em><strong>ICLRW 2025</strong></em>
+    <em>ICLRW 2025</em>
   </li>
   <li>
-    <a href="https://arxiv.org/abs/2503.21821">Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</a><br>
+    <a href="https://arxiv.org/abs/2503.21821" style="color:black; text-decoration:underline;">Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</a><br>
     Kaiyue Feng, Yilun Zhao, Yixin Liu, <strong>Tianyu Yang</strong>, Chen Zhao, John Sous, Arman Cohan<br>
-    <em><strong>ICLRW 2025</strong></em>
+    <em>ICLRW 2025</em>
   </li>
   <li>
-    <a href="https://dl.acm.org/doi/abs/10.1145/3701551.3704121">WildlifeLookup: A Chatbot Facilitating Wildlife Management with Accessible Data and Insights</a><br>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3701551.3704121" style="color:black; text-decoration:underline;">WildlifeLookup: A Chatbot Facilitating Wildlife Management with Accessible Data and Insights</a><br>
     Xiangqi Wang, <strong>Tianyu Yang</strong>, Jason Rohr, Brett Scheffers, Nitesh Chawla, Xiangliang Zhang<br>
-    <em><strong>WSDM 2025</strong></em>
+    <em>WSDM 2025</em>
   </li>
   <li>
-    <a href="https://arxiv.org/abs/2402.05138">SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark</a><br>
+    <a href="https://arxiv.org/abs/2402.05138" style="color:black; text-decoration:underline;">SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark</a><br>
     Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, <strong>Tianyu Yang</strong>, Jiajun Jiao, Renjie Pi, Jipeng Zhang, Xiangliang Zhang<br>
-    <em><strong>ACL 2024</strong></em>
+    <em>ACL 2024</em>
   </li>
   <li>
-    <a href="https://aclanthology.org/2023.emnlp-main.440/">UniMath: A Foundational and Multimodal Mathematical Reasoner</a><br>
+    <a href="https://aclanthology.org/2023.emnlp-main.440/" style="color:black; text-decoration:underline;">UniMath: A Foundational and Multimodal Mathematical Reasoner</a><br>
     Zhenwen Liang, <strong>Tianyu Yang</strong>, Jipeng Zhang, Xiangliang Zhang<br>
-    <em><strong>EMNLP 2023</strong></em>
+    <em>EMNLP 2023</em>
   </li>
 </ul>
-
 
 
 
