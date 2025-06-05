@@ -49,7 +49,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 <h1 id="-publications">📝 Publications</h1>
 <ul>
   <li>
-    <a href="#" style="color:black; text-decoration:underline;">CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP</a><br>
+    <a href="https://arxiv.org/pdf/2410.23330" style="color:black; text-decoration:underline;">CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP</a><br>
     <strong>Tianyu Yang</strong>, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang<br>
     <em>ACL 2025</em>
   </li>
