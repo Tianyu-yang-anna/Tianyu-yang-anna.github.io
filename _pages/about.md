@@ -107,14 +107,6 @@ My research interests include multimodal learning, focusing on leveraging multim
     [<a href="https://aclanthology.org/2023.emnlp-main.440/" target="_blank">pdf</a>]
   </li>
 
-  <li>
-    <strong>DocMath-Eval: Evaluating Numerical Reasoning Capabilities of LLMs in Understanding Long and Specialized Documents</strong><br>
-    Yilun Zhao*, Yitao Long*, Hongjun Liu, Linyong Nan, Lyuhao Chen, Ryo Kamoi, Yixin Liu, Xiangru Tang, Rui Zhang, Arman Cohan<br>
-    <em>ACL 2024 (Oral)</em><br>
-    [<a href="#" target="_blank">pdf</a>] [<a href="#" target="_blank">code/data</a>]
-  </li>
-</ul>
-
 
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
