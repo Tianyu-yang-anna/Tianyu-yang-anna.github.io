@@ -34,10 +34,10 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 
 # 🔥 News
-- **2025.06**: We are excited to announce the [KnowledgeMR Workshop](https://knowledgemr-workshop.github.io/) at ICCV 2025. We invite paper submissions.  
+- **2025.06**: We are excited to announce the [KnowledgeMR Workshop](https://knowledgemr-workshop.github.io/) at ICCV 2025. We invite paper submissions！  
   📍 **KnowledgeMR**: Workshop on Knowledge-Intensive Multimodal Reasoning
 - **2025.06**: We will organize a tutorial on [Multimodal Mathematical Reasoning](https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/) at CVPR 2025. See you in Nashville!  
-  📍 **CVPR Tutorial**: Multimodal Mathematical Reasoning: Frontiers in Integrating Vision, Language, and Symbolic Representations
+  📍 **Multimodal Mathematical Reasoning: Frontiers in Integrating Vision, Language, and Symbolic Representations**
 - *2025.05*: Started Research Scientist Internship at [Bosch Research](https://www.bosch-ai.com/).
 - *2025.05*: &nbsp;🎉🎉 Three paper accepted by ACL 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by Reasoning and Planning for LLMs @ ICLR 2025.
