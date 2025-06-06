@@ -34,7 +34,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 
 
 # 🔥 News
-- *May 2025*: <span style="color:red;">We will host a tutorial on Multimodal Mathematical Reasoning at CVPR. Please refer to <a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" style="color:red;">this link</a>.</span>
+- *2025.06*: <span style="color:red;">We will organize a tutorial on <a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank">Multimodal Mathematical Reasoning</a> at CVPR 2025. See you in Nashville!</span>
 - *2025.05*: Started Research Scientist Internship at [Bosch Research](https://www.bosch-ai.com/).
 - *2025.05*: &nbsp;🎉🎉 Three paper accepted by ACL 2025.
 - *2025.01*: &nbsp;🎉🎉 One paper accepted by Reasoning and Planning for LLMs @ ICLR 2025.
@@ -49,44 +49,66 @@ My research interests include multimodal learning, focusing on leveraging multim
 <h1 id="-publications">📝 Publications</h1>
 <ul>
   <li>
-    <a href="https://arxiv.org/pdf/2410.23330" style="color:black; text-decoration:underline;">CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP</a><br>
+    <strong>CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP</strong><br>
     <strong>Tianyu Yang</strong>, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang<br>
-    <em>ACL 2025</em>
+    <em>ACL 2025</em><br>
+    [<a href="https://arxiv.org/pdf/2410.23330" target="_blank">pdf</a>]
   </li>
+  
   <li>
-    <a href="https://arxiv.org/abs/2411.04933" style="color:black; text-decoration:underline;">SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer</a><br>
+    <strong>SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer</strong><br>
     <strong>Tianyu Yang</strong>, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng, Xiangliang Zhang<br>
-    <em>EMNLP 2024</em>
+    <em>EMNLP 2024</em><br>
+    [<a href="https://arxiv.org/abs/2411.04933" target="_blank">pdf</a>]
   </li>
+
   <li>
-    <a href="https://arxiv.org/abs/2503.21821" style="color:black; text-decoration:underline;">Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</a><br>
+    <strong>Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</strong><br>
     Kaiyue Feng, Yilun Zhao, Yixin Liu, <strong>Tianyu Yang</strong>, Chen Zhao, John Sous, Arman Cohan<br>
-    <em>ACL 2025</em>
+    <em>ACL 2025</em><br>
+    [<a href="https://arxiv.org/abs/2503.21821" target="_blank">pdf</a>]
   </li>
+
   <li>
-    <a href="https://openreview.net/forum?id=ssCw35Jl44" style="color:black; text-decoration:underline;">Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis</a><br>
+    <strong>Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis</strong><br>
     Yicheng Lang, Kehan Guo, Yue Huang, Yujun Zhou, Haomin Zhuang, <strong>Tianyu Yang</strong>, Yao Su, Xiangliang Zhang<br>
-    <em>ACL 2025</em>
+    <em>ACL 2025</em><br>
+    [<a href="https://openreview.net/forum?id=ssCw35Jl44" target="_blank">pdf</a>]
   </li>
+
   <li>
-    <a href="https://arxiv.org/abs/2503.21821" style="color:black; text-decoration:underline;">Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</a><br>
+    <strong>Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</strong><br>
     Kaiyue Feng, Yilun Zhao, Yixin Liu, <strong>Tianyu Yang</strong>, Chen Zhao, John Sous, Arman Cohan<br>
-    <em>ICLRW 2025</em>
+    <em>ICLRW 2025</em><br>
+    [<a href="https://arxiv.org/abs/2503.21821" target="_blank">pdf</a>]
   </li>
+
   <li>
-    <a href="https://dl.acm.org/doi/abs/10.1145/3701551.3704121" style="color:black; text-decoration:underline;">WildlifeLookup: A Chatbot Facilitating Wildlife Management with Accessible Data and Insights</a><br>
+    <strong>WildlifeLookup: A Chatbot Facilitating Wildlife Management with Accessible Data and Insights</strong><br>
     Xiangqi Wang, <strong>Tianyu Yang</strong>, Jason Rohr, Brett Scheffers, Nitesh Chawla, Xiangliang Zhang<br>
-    <em>WSDM 2025</em>
+    <em>WSDM 2025</em><br>
+    [<a href="https://dl.acm.org/doi/abs/10.1145/3701551.3704121" target="_blank">pdf</a>]
   </li>
+
   <li>
-    <a href="https://arxiv.org/abs/2402.05138" style="color:black; text-decoration:underline;">SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark</a><br>
+    <strong>SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark</strong><br>
     Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, <strong>Tianyu Yang</strong>, Jiajun Jiao, Renjie Pi, Jipeng Zhang, Xiangliang Zhang<br>
-    <em>ACL 2024</em>
+    <em>ACL 2024</em><br>
+    [<a href="https://arxiv.org/abs/2402.05138" target="_blank">pdf</a>]
   </li>
+
   <li>
-    <a href="https://aclanthology.org/2023.emnlp-main.440/" style="color:black; text-decoration:underline;">UniMath: A Foundational and Multimodal Mathematical Reasoner</a><br>
+    <strong>UniMath: A Foundational and Multimodal Mathematical Reasoner</strong><br>
     Zhenwen Liang, <strong>Tianyu Yang</strong>, Jipeng Zhang, Xiangliang Zhang<br>
-    <em>EMNLP 2023</em>
+    <em>EMNLP 2023</em><br>
+    [<a href="https://aclanthology.org/2023.emnlp-main.440/" target="_blank">pdf</a>]
+  </li>
+
+  <li>
+    <strong>DocMath-Eval: Evaluating Numerical Reasoning Capabilities of LLMs in Understanding Long and Specialized Documents</strong><br>
+    Yilun Zhao*, Yitao Long*, Hongjun Liu, Linyong Nan, Lyuhao Chen, Ryo Kamoi, Yixin Liu, Xiangru Tang, Rui Zhang, Arman Cohan<br>
+    <em>ACL 2024 (Oral)</em><br>
+    [<a href="#" target="_blank">pdf</a>] [<a href="#" target="_blank">code/data</a>]
   </li>
 </ul>
 
