@@ -40,53 +40,54 @@ My research interests include multimodal learning, focusing on leveraging multim
 <ul>
   <li>
     <strong>CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP</strong><br>
-    <strong>Tianyu Yang</strong>, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang<br>
+    <strong><em><u>Tianyu Yang</u></em></strong>, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang<br>
     <em>ACL 2025</em><br>
     [<a href="https://arxiv.org/pdf/2410.23330" target="_blank">pdf</a>]
   </li>
   
   <li>
     <strong>SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer</strong><br>
-    <strong>Tianyu Yang</strong>, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng, Xiangliang Zhang<br>
+    <strong><em><u>Tianyu Yang</u></em></strong>, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng, Xiangliang Zhang<br>
     <em>EMNLP 2024</em><br>
     [<a href="https://arxiv.org/abs/2411.04933" target="_blank">pdf</a>]
   </li>
 
   <li>
     <strong>Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</strong><br>
-    Kaiyue Feng, Yilun Zhao, Yixin Liu, <strong>Tianyu Yang</strong>, Chen Zhao, John Sous, Arman Cohan<br>
+    Kaiyue Feng, Yilun Zhao, Yixin Liu, <strong><em><u>Tianyu Yang</u></em></strong>, Chen Zhao, John Sous, Arman Cohan<br>
     <em>ACL 2025</em> (Also at <em>ICLRW 2025</em>)<br>
     [<a href="https://arxiv.org/abs/2503.21821" target="_blank">pdf</a>]
   </li>
 
   <li>
     <strong>Beyond Single-Value Metrics: Evaluating and Enhancing LLM Unlearning with Cognitive Diagnosis</strong><br>
-    Yicheng Lang, Kehan Guo, Yue Huang, Yujun Zhou, Haomin Zhuang, <strong>Tianyu Yang</strong>, Yao Su, Xiangliang Zhang<br>
+    Yicheng Lang, Kehan Guo, Yue Huang, Yujun Zhou, Haomin Zhuang, <strong><em><u>Tianyu Yang</u></em></strong>, Yao Su, Xiangliang Zhang<br>
     <em>ACL 2025</em><br>
     [<a href="https://openreview.net/forum?id=ssCw35Jl44" target="_blank">pdf</a>]
   </li>
 
   <li>
     <strong>WildlifeLookup: A Chatbot Facilitating Wildlife Management with Accessible Data and Insights</strong><br>
-    Xiangqi Wang, <strong>Tianyu Yang</strong>, Jason Rohr, Brett Scheffers, Nitesh Chawla, Xiangliang Zhang<br>
+    Xiangqi Wang, <strong><em><u>Tianyu Yang</u></em></strong>, Jason Rohr, Brett Scheffers, Nitesh Chawla, Xiangliang Zhang<br>
     <em>WSDM 2025</em><br>
     [<a href="https://dl.acm.org/doi/abs/10.1145/3701551.3704121" target="_blank">pdf</a>]
   </li>
 
   <li>
     <strong>SceMQA: A Scientific College Entrance Level Multimodal Question Answering Benchmark</strong><br>
-    Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, <strong>Tianyu Yang</strong>, Jiajun Jiao, Renjie Pi, Jipeng Zhang, Xiangliang Zhang<br>
+    Zhenwen Liang, Kehan Guo, Gang Liu, Taicheng Guo, Yujun Zhou, <strong><em><u>Tianyu Yang</u></em></strong>, Jiajun Jiao, Renjie Pi, Jipeng Zhang, Xiangliang Zhang<br>
     <em>ACL 2024</em><br>
     [<a href="https://arxiv.org/abs/2402.05138" target="_blank">pdf</a>]
   </li>
 
   <li>
     <strong>UniMath: A Foundational and Multimodal Mathematical Reasoner</strong><br>
-    Zhenwen Liang, <strong>Tianyu Yang</strong>, Jipeng Zhang, Xiangliang Zhang<br>
+    Zhenwen Liang, <strong><em><u>Tianyu Yang</u></em></strong>, Jipeng Zhang, Xiangliang Zhang<br>
     <em>EMNLP 2023</em><br>
     [<a href="https://aclanthology.org/2023.emnlp-main.440/" target="_blank">pdf</a>]
   </li>
 </ul>
+
 
 # 📖 Educations
 - *2023.09 – Present*, **University of Notre Dame, South Bend, IN**  
