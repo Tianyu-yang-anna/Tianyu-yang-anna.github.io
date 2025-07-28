@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a>.  
+Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a> and  <a href="https://cmhcbb.github.io/" target="_blank">Professor Minhao Cheng .  
 
 My research interests include multimodal learning, focusing on leveraging multimodal data (e.g., language, vision, and audio) to interact with the physical world.
 
@@ -39,6 +39,12 @@ My research interests include multimodal learning, focusing on leveraging multim
 <h1 id="-publications">📝 Publications</h1>
 <ul>
   <li>
+  <strong>Quest2DataAgent: Automating End-to-End Scientific Data Collection</strong><br>
+  <strong><em><u>Tianyu Yang</u></em></strong>, Yuhan Liu, Ethan Brown, Sobin Alosious, Jason Rohr, Tengfei Luo, Xiangliang Zhang<br>
+  <em>Under Review</em>
+  </li>
+
+  <li>
     <strong>CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP</strong><br>
     <strong><em><u>Tianyu Yang</u></em></strong>, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang<br>
     <em>ACL 2025</em><br>
@@ -47,7 +53,7 @@ My research interests include multimodal learning, focusing on leveraging multim
   
   <li>
     <strong>SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer</strong><br>
-    <strong><em><u>Tianyu Yang</u></em></strong>, Yiyang Nan, Lisen Dai, Zhenwen Liang, Tianya Peng, Xiangliang Zhang<br>
+    <strong><em><u>Tianyu Yang</u></em></strong>, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang<br>
     <em>EMNLP 2024</em><br>
     [<a href="https://arxiv.org/abs/2411.04933" target="_blank">pdf</a>]
   </li>
@@ -55,7 +61,7 @@ My research interests include multimodal learning, focusing on leveraging multim
   <li>
     <strong>Physics: Benchmarking Foundation Models for PhD-Qualifying Exam Physics Problem Solving</strong><br>
     Kaiyue Feng, Yilun Zhao, Yixin Liu, <strong><em><u>Tianyu Yang</u></em></strong>, Chen Zhao, John Sous, Arman Cohan<br>
-    <em>ACL 2025</em> (Also at <em>ICLRW 2025</em>)<br>
+    <em>ACL 2025</em> (Also at <em>ICLR@ Reasoning and Planning for LLMs 2025</em>)<br>
     [<a href="https://arxiv.org/abs/2503.21821" target="_blank">pdf</a>]
   </li>
 
@@ -94,8 +100,10 @@ My research interests include multimodal learning, focusing on leveraging multim
   PhD in Computer Science
 
 # 💬 Personal Service
-- *2025*, Reviewer at EMNLP, ICCV, ACL, NAACL  
+- *2025*, Program Chair at KnowledgeMR @ ICCV.
+- *2025*, Reviewer at EMNLP, ACL, NAACL, ICCV, NeurIPS 
 - *2024*, Reviewer at EMNLP, ACL, ICDM  
+- *2024*, TA for Advanced topics in Machine Learning, Notre Dame  
 - *2024*, Undergraduate Mentor, Department of Computer Science, Notre Dame  
 - *2023*, TA for Advanced Algorithms & Reinforcement Learning, Columbia University
 
