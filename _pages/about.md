@@ -22,7 +22,7 @@ Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd
 My research interests include multimodal learning, focusing on leveraging multimodal data (e.g., language, vision, and audio) to interact with the physical world.
 
 # 🔥 News
-- *2023.09*: 🎉🎉 Two papers accepted by EMNLP 2025.
+- *2025.09*: 🎉🎉 Two papers accepted by EMNLP 2025.
 - *2025.09*: 📢 We are excited to announce the [AI for Scientific Research Workshop](https://ai4research-workshop.github.io/) at AAAI 2026. We invite paper submissions.  
   📍 **AI4Research: Workshop on AI for Scientific Research**
 - *2025.06*: 📢 We are excited to announce the [KnowledgeMR Workshop](https://knowledgemr-workshop.github.io/) at ICCV 2025. We invite paper submissions.  
