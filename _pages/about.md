@@ -86,7 +86,7 @@ My research interests include multimodal learning, focusing on leveraging multim
   <li>
   <strong>Self-Improvement in Multimodal Large Language Models: A Survey</strong><br>
   Shijian Deng, Kai Wang, <strong><em><u>Tianyu Yang</u></em></strong>, Harsh Singh, Yapeng Tian<br>
-  <em>Preprint</em><br>
+  <em>EMNLP 2025</em><br>
   [<a href="https://arxiv.org/abs/2501.00000" target="_blank">pdf</a>]
   </li>
 
