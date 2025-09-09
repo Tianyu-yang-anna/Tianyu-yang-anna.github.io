@@ -22,6 +22,9 @@ Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd
 My research interests include multimodal learning, focusing on leveraging multimodal data (e.g., language, vision, and audio) to interact with the physical world.
 
 # 🔥 News
+- *2023.09*: 🎉🎉 Two papers accepted by EMNLP 2025.
+- *2025.09*: 📢 We are excited to announce the [AI for Scientific Research Workshop](https://ai4research-workshop.github.io/) at AAAI 2026. We invite paper submissions.  
+  📍 **AI4Research: Workshop on AI for Scientific Research**
 - *2025.06*: 📢 We are excited to announce the [KnowledgeMR Workshop](https://knowledgemr-workshop.github.io/) at ICCV 2025. We invite paper submissions.  
   📍 **KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning**
 - *2025.06*: 🎓 We will organize a tutorial on [Multimodal Mathematical Reasoning](https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/) at CVPR 2025. See you in Nashville!  
@@ -36,12 +39,34 @@ My research interests include multimodal learning, focusing on leveraging multim
 - *2023.10*: 🎉🎉 One paper accepted by EMNLP 2023.
 - *2023.06*: I started an open-source project working with Intel OpenCV.org.
 
+<h1 id="-organization">📚 Organization of Tutorials and Workshops</h1>
+<ul>
+  <li>
+    <strong>AI4Research: Workshop on AI for Scientific Research</strong><br>
+    <em>AAAI 2026</em><br>
+    [<a href="https://ai4research-workshop.github.io/" target="_blank">Link</a>]
+  </li>
+
+  <li>
+    <strong>KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning</strong><br>
+    <em>ICCV 2025</em><br>
+    [<a href="https://knowledgemr-workshop.github.io/" target="_blank">Link</a>]
+  </li>
+
+  <li>
+    <strong>Multimodal Mathematical Reasoning: Frontiers in Integrating Vision, Language, and Symbolic Representations</strong><br>
+    <em>CVPR 2025</em><br>
+    [<a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank">Link</a>]
+  </li>
+</ul>
+
+
 <h1 id="-publications">📝 Publications</h1>
 <ul>
   <li>
   <strong>Quest2DataAgent: Automating End-to-End Scientific Data Collection</strong><br>
   <strong><em><u>Tianyu Yang</u></em></strong>, Yuhan Liu, Ethan Brown, Sobin Alosious, Jason Rohr, Tengfei Luo, Xiangliang Zhang<br>
-  <em>Under Review</em>
+  <em>EMNLP 2025</em>
   </li>
 
   <li>
@@ -56,6 +81,13 @@ My research interests include multimodal learning, focusing on leveraging multim
     <strong><em><u>Tianyu Yang</u></em></strong>, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang<br>
     <em>EMNLP 2024</em><br>
     [<a href="https://arxiv.org/abs/2411.04933" target="_blank">pdf</a>]
+  </li>
+
+  <li>
+  <strong>Self-Improvement in Multimodal Large Language Models: A Survey</strong><br>
+  Shijian Deng, Kai Wang, <strong><em><u>Tianyu Yang</u></em></strong>, Harsh Singh, Yapeng Tian<br>
+  <em>Preprint</em><br>
+  [<a href="https://arxiv.org/abs/2501.00000" target="_blank">pdf</a>]
   </li>
 
   <li>
