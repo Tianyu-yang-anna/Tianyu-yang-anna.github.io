@@ -24,11 +24,8 @@ My research interests include multimodal learning, focusing on leveraging multim
 # 🔥 News
 - *2025.09*: 🎉🎉 Two papers accepted by EMNLP 2025.
 - *2025.09*: 📢 We are excited to announce the [AI for Scientific Research Workshop](https://ai4research-workshop.github.io/) at AAAI 2026. We invite paper submissions.  
-  📍 **AI4Research: Workshop on AI for Scientific Research**
 - *2025.06*: 📢 We are excited to announce the [KnowledgeMR Workshop](https://knowledgemr-workshop.github.io/) at ICCV 2025. We invite paper submissions.  
-  📍 **KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning**
 - *2025.06*: 🎓 We will organize a tutorial on [Multimodal Mathematical Reasoning](https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/) at CVPR 2025. See you in Nashville!  
-  📍 **Multimodal Mathematical Reasoning: Frontiers in Integrating Vision, Language, and Symbolic Representations**
 - *2025.05*: 🎉🎉 Three papers accepted by ACL 2025.
 - *2025.05*: Started Research Scientist Internship at [Bosch Research](https://www.bosch-ai.com/).
 - *2025.01*: 🎉🎉 One paper accepted by Reasoning and Planning for LLMs @ ICLR 2025.
@@ -42,6 +39,12 @@ My research interests include multimodal learning, focusing on leveraging multim
 <h1 id="-organization">📚 Organization of Tutorials and Workshops</h1>
 <ul>
   <li>
+    <strong>Multimodal Mathematical Reasoning: Frontiers in Integrating Vision, Language, and Symbolic Representations</strong><br>
+    <em>CVPR 2025, 2026</em><br>
+    [<a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank">Link</a>]
+  </li>
+
+  <li>
     <strong>AI4Research: Workshop on AI for Scientific Research</strong><br>
     <em>AAAI 2026</em><br>
     [<a href="https://ai4research-workshop.github.io/" target="_blank">Link</a>]
@@ -53,16 +56,17 @@ My research interests include multimodal learning, focusing on leveraging multim
     [<a href="https://knowledgemr-workshop.github.io/" target="_blank">Link</a>]
   </li>
 
-  <li>
-    <strong>Multimodal Mathematical Reasoning: Frontiers in Integrating Vision, Language, and Symbolic Representations</strong><br>
-    <em>CVPR 2025</em><br>
-    [<a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank">Link</a>]
-  </li>
 </ul>
 
 
 <h1 id="-publications">📝 Publications</h1>
 <ul>
+  <li>
+  <strong>A Survey of Multimodal Mathematical Reasoning: From Perception,Alignment to Reasoning</strong><br>
+  <strong><em><u>Tianyu Yang</u></em></strong>,  Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang<br>
+  <em>Arxiv 2025</em>
+  </li>
+
   <li>
   <strong>Quest2DataAgent: Automating End-to-End Scientific Data Collection</strong><br>
   <strong><em><u>Tianyu Yang</u></em></strong>, Yuhan Liu, Ethan Brown, Sobin Alosious, Jason Rohr, Tengfei Luo, Xiangliang Zhang<br>
@@ -132,16 +136,17 @@ My research interests include multimodal learning, focusing on leveraging multim
   PhD in Computer Science
 
 # 💬 Personal Service
+- *2025*, Reviewer at ACL, CVPR.
 - *2025*, Program Chair at KnowledgeMR @ ICCV.
-- *2025*, Reviewer at EMNLP, ACL, NAACL, ICCV, NeurIPS 
+- *2025*, Reviewer at EMNLP, ACL, NAACL, ICCV, NeurIPS
 - *2024*, Reviewer at EMNLP, ACL, ICDM  
 - *2024*, TA for Advanced topics in Machine Learning, Notre Dame  
 - *2024*, Undergraduate Mentor, Department of Computer Science, Notre Dame  
 - *2023*, TA for Advanced Algorithms & Reinforcement Learning, Columbia University
 
 # 💻 Work Experience
-- *2025.05 – 2025.08*, **Bosch Research**  
-  Mentor: Zhenzhen Li
+- *2026.01 – 2025.05*, **Samsung Research**  
 
-- *2023.05 – 2023.08*, **Intel & OpenCV.org (Google Summer of Code)**  
-  Mentor: Dmitry Matveev
+- *2025.05 – 2025.08*, **Bosch Research**  
+
+- *2023.05 – 2023.08*, **Intel & OpenCV.org**  
