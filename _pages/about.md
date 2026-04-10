@@ -19,7 +19,10 @@ redirect_from:
 
 Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a>.
 
-My research interests include multimodal learning, focusing on leveraging multimodal data (e.g., language, vision, and audio) to interact with the physical world.
+Currently, my research focuses on:
+(1) building reliable multimodal foundation models and agentic systems with strong multimodal understanding, reasoning, and long-horizon decision-making capabilities;
+(2) developing alignment and evaluation methods to make multimodal model behavior measurable, trustworthy, and improvable; and
+(3) advancing knowledge-intensive multimodal systems, including retrieval-augmented generation and agentic workflows, for scientific and real-world applications.
 
 # 🔥 News
 - *2026.04*:  📢 We are excited to announce the [KnowledgeMR Workshop](https://knowledgemr-workshop.github.io/) at CVPR 2026. We invite paper submissions.  
@@ -155,13 +158,7 @@ My research interests include multimodal learning, focusing on leveraging multim
   PhD in Computer Science
 
 # 💬 Personal Service
-# 💬 Professional Service
-- *2025*, Reviewer for ACL, CVPR, EMNLP, NAACL, NeurIPS, ICCV, KDD
-- *2025*, Program Chair, KnowledgeMR @ ICCV
-- *2024*, Reviewer for ACL, EMNLP, ICDM
-- *2024*, TA, Advanced Topics in Machine Learning, University of Notre Dame
-- *2024*, Undergraduate Mentor, Department of Computer Science, University of Notre Dame
-- *2023*, TA, Advanced Algorithms & Reinforcement Learning, Columbia University
+- Reviewer: ACL Rolling Review (2021–2025) and other ACL events, CVPR, COLM, ICLR, NeurIPS, ICML
 
 # 💻 Work Experience
 - *2026.01 – 2026.05*, **Samsung Research America**  
