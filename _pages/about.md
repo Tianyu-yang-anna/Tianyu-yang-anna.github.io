@@ -69,7 +69,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 <p><em>* indicates equal contribution</em></p>
 <ul>
   <li>
-    <strong>MM-VARA: Understanding-Then-Retrieving for Verifiable Multimodal RAG</strong><br>
+    <strong>MM-VARA: Understanding-Then-Retrieving for Agentic Multimodal RAG</strong><br>
     <strong><em><u>Tianyu Yang</u></em></strong>, Simon Shir, Zhenzhen Li, Minhao Cheng, Xiangliang Zhang<br>
     <em>arXiv 2026</em>
   </li>
