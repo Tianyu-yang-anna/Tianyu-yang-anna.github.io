@@ -157,7 +157,7 @@ Currently, my research focuses on:
   PhD in Computer Science
 
 # 💬 Personal Service
-- Reviewer: ACL Rolling Review (2021–2025) and other ACL events, CVPR, COLM, ICLR, NeurIPS, ICML
+- Reviewer: ACL Rolling Review (2021–2025) and other ACL events, CVPR, COLM, ICLR, NeurIPS, ICML, ECCV, ICLR
 
 # 💻 Work Experience
 - *2026.01 – 2026.05*, **Samsung Research America**  
