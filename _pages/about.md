@@ -155,13 +155,13 @@ My research interests include multimodal learning, focusing on leveraging multim
   PhD in Computer Science
 
 # 💬 Personal Service
-- *2025*, Reviewer at ACL, CVPR.
-- *2025*, Program Chair at KnowledgeMR @ ICCV.
-- *2025*, Reviewer at EMNLP, ACL, NAACL, ICCV, NeurIPS
-- *2024*, Reviewer at EMNLP, ACL, ICDM  
-- *2024*, TA for Advanced topics in Machine Learning, Notre Dame  
-- *2024*, Undergraduate Mentor, Department of Computer Science, Notre Dame  
-- *2023*, TA for Advanced Algorithms & Reinforcement Learning, Columbia University
+# 💬 Professional Service
+- *2025*, Reviewer for ACL, CVPR, EMNLP, NAACL, NeurIPS, ICCV, KDD
+- *2025*, Program Chair, KnowledgeMR @ ICCV
+- *2024*, Reviewer for ACL, EMNLP, ICDM
+- *2024*, TA, Advanced Topics in Machine Learning, University of Notre Dame
+- *2024*, Undergraduate Mentor, Department of Computer Science, University of Notre Dame
+- *2023*, TA, Advanced Algorithms & Reinforcement Learning, Columbia University
 
 # 💻 Work Experience
 - *2026.01 – 2026.05*, **Samsung Research America**  
