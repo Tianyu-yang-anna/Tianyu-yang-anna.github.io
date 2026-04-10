@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a> and  <a href="https://cmhcbb.github.io/" target="_blank">Professor Minhao Cheng .  
+Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd.edu/" target="_blank">University of Notre Dame</a>. I am fortunate to have <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank">Professor Xiangliang Zhang</a> as my advisor and grateful for the guidance of <a href="https://www.yapengtian.com/" target="_blank">Professor Yapeng Tian</a>.
 
 My research interests include multimodal learning, focusing on leveraging multimodal data (e.g., language, vision, and audio) to interact with the physical world.
 
 # 🔥 News
+- *2026.04*:  📢 We are excited to announce the [KnowledgeMR Workshop](https://knowledgemr-workshop.github.io/) at CVPR 2026. We invite paper submissions.  
+- *2026.04*: 🎉🎉 One paper accepted by ACL 2026.
 - *2025.09*: 🎉🎉 Two papers accepted by EMNLP 2025.
 - *2025.09*: 📢 We are excited to announce the [AI for Scientific Research Workshop](https://ai4research-workshop.github.io/) at AAAI 2026. We invite paper submissions.  
 - *2025.06*: 📢 We are excited to announce the [KnowledgeMR Workshop](https://knowledgemr-workshop.github.io/) at ICCV 2025. We invite paper submissions.  
@@ -34,14 +36,14 @@ My research interests include multimodal learning, focusing on leveraging multim
 - *2024.05*: I have passed the qualifying exam.
 - *2024.05*: 🎉🎉 One paper accepted by ACL 2024.
 - *2023.10*: 🎉🎉 One paper accepted by EMNLP 2023.
-- *2023.06*: I started an open-source project working with Intel OpenCV.org.
+
 
 <h1 id="-organization">📚 Organization of Tutorials and Workshops</h1>
 <ul>
   <li>
-    <strong>Multimodal Mathematical Reasoning: Frontiers in Integrating Vision, Language, and Symbolic Representations</strong><br>
-    <em>CVPR 2025, 2026</em><br>
-    [<a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank">Link</a>]
+    <strong>KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning</strong><br>
+    <em>CVPR 2026</em><br>
+    [<a href="https://knowledgemr-workshop.github.io/" target="_blank">Link</a>]
   </li>
 
   <li>
@@ -55,16 +57,33 @@ My research interests include multimodal learning, focusing on leveraging multim
     <em>ICCV 2025</em><br>
     [<a href="https://knowledgemr-workshop.github.io/" target="_blank">Link</a>]
   </li>
-
+  <li>
+    <strong>Multimodal Mathematical Reasoning Tutorial: Frontiers in Integrating Vision, Language, and Symbolic Representations</strong><br>
+    <em>CVPR 2025</em><br>
+    [<a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank">Link</a>]
+  </li>
 </ul>
 
 
 <h1 id="-publications">📝 Publications</h1>
+<p><em>* indicates equal contribution</em></p>
 <ul>
   <li>
-  <strong>A Survey of Multimodal Mathematical Reasoning: From Perception,Alignment to Reasoning</strong><br>
-  <strong><em><u>Tianyu Yang</u></em></strong>,  Sihong Wu, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang<br>
-  <em>Arxiv 2025</em>
+    <strong>MM-VARA: Understanding-Then-Retrieving for Verifiable Multimodal RAG</strong><br>
+    <strong><em><u>Tianyu Yang</u></em></strong>, Simon Shir, Zhenzhen Li, Minhao Cheng, Xiangliang Zhang<br>
+    <em>arXiv 2026</em>
+  </li>
+
+  <li>
+    <strong>Agentic Multimodal RAG: Roles, Decisions, and Evaluation</strong><br>
+    <strong><em><u>Tianyu Yang*</u></em></strong>, Wenliang Guo*, Xiujin Liu, Shijian Deng, Yilun Zhao, Yapeng Tian, Xiangliang Zhang<br>
+    <em>arXiv 2026</em>
+  </li>
+
+  <li>
+    <strong>Deconstructing Multimodal Mathematical Reasoning: Towards a Unified Perception-Alignment-Reasoning Paradigm</strong><br>
+    <strong><em><u>Tianyu Yang*</u></em></strong>, Sihong Wu*, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang<br>
+    <em>ACL 2026</em>
   </li>
 
   <li>
@@ -81,7 +100,7 @@ My research interests include multimodal learning, focusing on leveraging multim
   </li>
   
   <li>
-    <strong>SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answer</strong><br>
+    <strong>SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering</strong><br>
     <strong><em><u>Tianyu Yang</u></em></strong>, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang<br>
     <em>EMNLP 2024</em><br>
     [<a href="https://arxiv.org/abs/2411.04933" target="_blank">pdf</a>]
@@ -145,7 +164,7 @@ My research interests include multimodal learning, focusing on leveraging multim
 - *2023*, TA for Advanced Algorithms & Reinforcement Learning, Columbia University
 
 # 💻 Work Experience
-- *2026.01 – 2025.05*, **Samsung Research**  
+- *2026.01 – 2026.05*, **Samsung Research America**  
 
 - *2025.05 – 2025.08*, **Bosch Research**  
 
