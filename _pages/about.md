@@ -21,8 +21,7 @@ Hi there 👋，I am a second-year CS PhD student at the <a href="https://www.nd
 
 Currently, my research focuses on:
 (1) building reliable multimodal foundation models and agentic systems with strong multimodal understanding, reasoning, and long-horizon decision-making capabilities;
-(2) developing alignment and evaluation methods to make multimodal model behavior measurable, trustworthy, and improvable; and
-(3) advancing knowledge-intensive multimodal systems, including retrieval-augmented generation and agentic workflows, for scientific and real-world applications.
+(2) advancing knowledge-intensive multimodal systems, including retrieval-augmented generation and agentic workflows, for scientific and real-world applications.
 
 # 🔥 News
 - *2026.04*:  📢 We are excited to announce the [KnowledgeMR Workshop](https://knowledgemr-workshop.github.io/) at CVPR 2026. We invite paper submissions.  
