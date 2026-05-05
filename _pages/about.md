@@ -111,7 +111,7 @@ redirect_from:
         <h2>Deconstructing Multimodal Mathematical Reasoning: Towards a Unified Perception-Alignment-Reasoning Paradigm</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang*</em></strong>, Sihong Wu*, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang</p>
         <p class="publication-venue">ACL 2026</p>
-        <p class="publication-links"><a href="https://arxiv.org/abs/2603.08291" target="_blank" rel="noopener">arxiv</a></p>
+        <p class="publication-links"><a href="https://arxiv.org/pdf/2603.08291" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
 
