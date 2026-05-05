@@ -1,4 +1,36 @@
 <script src="assets/js/main.min.js"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var links = Array.prototype.slice.call(document.querySelectorAll(".sidebar__nav a"));
+    var sections = links.map(function (link) {
+      var hash = link.hash;
+      return hash ? { link: link, section: document.querySelector(hash) } : null;
+    }).filter(function (item) {
+      return item && item.section;
+    });
+
+    if (!sections.length) return;
+
+    function updateActiveSection() {
+      var current = sections[0];
+      var scrollPosition = window.scrollY + 120;
+
+      sections.forEach(function (item) {
+        if (item.section.offsetTop <= scrollPosition) {
+          current = item;
+        }
+      });
+
+      links.forEach(function (link) {
+        link.classList.remove("is-active");
+      });
+      current.link.classList.add("is-active");
+    }
+
+    updateActiveSection();
+    window.addEventListener("scroll", updateActiveSection, { passive: true });
+  });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}

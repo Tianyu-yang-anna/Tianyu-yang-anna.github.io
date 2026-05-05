@@ -10,5 +10,14 @@
       {% if s.text %}{{ s.text | markdownify }}{% endif %}
     {% endfor %}
   {% endif %}
+  {% if site.data.navigation.main %}
+    <nav class="sidebar__nav" aria-label="Section navigation">
+      <ul>
+        {% for link in site.data.navigation.main %}
+          <li><a href="{{ link.url | relative_url }}">{{ link.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  {% endif %}
   </div>
 {% endif %}

@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve
+LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8 bundle exec jekyll liveserve
