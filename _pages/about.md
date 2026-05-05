@@ -32,6 +32,35 @@ redirect_from:
   </div>
 </section>
 
+<section id="organization" class="home-section organization-section">
+  <h1>Organization of Tutorials and Workshops</h1>
+  <div class="organization-grid">
+    <article class="organization-card">
+      <p class="organization-meta">CVPR 2026</p>
+      <h2>KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning</h2>
+      <a href="https://knowledgemr-workshop.github.io/" target="_blank" rel="noopener">Link</a>
+    </article>
+
+    <article class="organization-card">
+      <p class="organization-meta">AAAI 2026</p>
+      <h2>AI4Research: Workshop on AI for Scientific Research</h2>
+      <a href="https://ai4research-workshop.github.io/" target="_blank" rel="noopener">Link</a>
+    </article>
+
+    <article class="organization-card">
+      <p class="organization-meta">ICCV 2025</p>
+      <h2>KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning</h2>
+      <a href="https://knowledgemr-workshop.github.io/" target="_blank" rel="noopener">Link</a>
+    </article>
+
+    <article class="organization-card">
+      <p class="organization-meta">CVPR 2025</p>
+      <h2>Multimodal Mathematical Reasoning Tutorial: Frontiers in Integrating Vision, Language, and Symbolic Representations</h2>
+      <a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank" rel="noopener">Link</a>
+    </article>
+  </div>
+</section>
+
 <section id="publications" class="home-section publications-section">
   <h1>Selected Publications</h1>
   <p class="pub-note"><em>* indicates equal contribution</em></p>
@@ -45,7 +74,7 @@ redirect_from:
       <div class="publication-body">
         <h2>MM-VARA: Understanding-Then-Retrieving for Agentic Multimodal RAG</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Simon Shir, Zhenzhen Li, Minhao Cheng, Xiangliang Zhang</p>
-        <p class="publication-venue">arXiv 2026</p>
+        <p class="publication-venue">in submission 2026</p>
       </div>
     </article>
 
@@ -57,7 +86,19 @@ redirect_from:
       <div class="publication-body">
         <h2>Agentic Multimodal RAG: Roles, Decisions, and Evaluation</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang*</em></strong>, Wenliang Guo*, Xiujin Liu, Shijian Deng, Yilun Zhao, Yapeng Tian, Xiangliang Zhang</p>
-        <p class="publication-venue">arXiv 2026</p>
+        <p class="publication-venue">in submission 2026</p>
+      </div>
+    </article>
+
+    <article class="publication-card">
+      <figure class="publication-image">
+        <img src="{{ '/images/publications/designagent.png' | relative_url }}" alt="DesignAgent teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <span class="publication-image-fallback">Image pending</span>
+      </figure>
+      <div class="publication-body">
+        <h2>DesignAgent: Interactive Object-Level Indoor 3D Scene Editing via Multimodal Agentic Reasoning</h2>
+        <p class="publication-authors">Xiujin Liu*, <strong><em>Tianyu Yang*</em></strong>, Chen Zhao, Yilun Zhao, Xiangliang Zhang</p>
+        <p class="publication-venue">in submission 2026</p>
       </div>
     </article>
 
@@ -70,6 +111,7 @@ redirect_from:
         <h2>Deconstructing Multimodal Mathematical Reasoning: Towards a Unified Perception-Alignment-Reasoning Paradigm</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang*</em></strong>, Sihong Wu*, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang</p>
         <p class="publication-venue">ACL 2026</p>
+        <p class="publication-links"><a href="https://arxiv.org/abs/2603.08291" target="_blank" rel="noopener">arxiv</a></p>
       </div>
     </article>
 
@@ -82,6 +124,7 @@ redirect_from:
         <h2>Quest2DataAgent: Automating End-to-End Scientific Data Collection</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Yuhan Liu, Ethan Brown, Sobin Alosious, Jason Rohr, Tengfei Luo, Xiangliang Zhang</p>
         <p class="publication-venue">EMNLP 2025</p>
+        <p class="publication-links"><a href="https://aclanthology.org/2025.emnlp-demos.36.pdf" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
 
@@ -109,35 +152,6 @@ redirect_from:
         <p class="publication-venue">EMNLP 2024</p>
         <p class="publication-links"><a href="https://arxiv.org/abs/2411.04933" target="_blank" rel="noopener">pdf</a></p>
       </div>
-    </article>
-  </div>
-</section>
-
-<section id="organization" class="home-section organization-section">
-  <h1>Organization of Tutorials and Workshops</h1>
-  <div class="organization-grid">
-    <article class="organization-card">
-      <p class="organization-meta">CVPR 2026</p>
-      <h2>KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning</h2>
-      <a href="https://knowledgemr-workshop.github.io/" target="_blank" rel="noopener">Link</a>
-    </article>
-
-    <article class="organization-card">
-      <p class="organization-meta">AAAI 2026</p>
-      <h2>AI4Research: Workshop on AI for Scientific Research</h2>
-      <a href="https://ai4research-workshop.github.io/" target="_blank" rel="noopener">Link</a>
-    </article>
-
-    <article class="organization-card">
-      <p class="organization-meta">ICCV 2025</p>
-      <h2>KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning</h2>
-      <a href="https://knowledgemr-workshop.github.io/" target="_blank" rel="noopener">Link</a>
-    </article>
-
-    <article class="organization-card">
-      <p class="organization-meta">CVPR 2025</p>
-      <h2>Multimodal Mathematical Reasoning Tutorial: Frontiers in Integrating Vision, Language, and Symbolic Representations</h2>
-      <a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank" rel="noopener">Link</a>
     </article>
   </div>
 </section>

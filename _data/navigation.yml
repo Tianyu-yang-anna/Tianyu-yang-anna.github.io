@@ -3,11 +3,11 @@ main:
   - title: "About"
     url: "/#about-me"
 
-  - title: "Selected Publications"
-    url: "/#publications"
-
   - title: "Organization"
     url: "/#organization"
+
+  - title: "Selected Publications"
+    url: "/#publications"
 
   - title: "Education"
     url: "/#education"
