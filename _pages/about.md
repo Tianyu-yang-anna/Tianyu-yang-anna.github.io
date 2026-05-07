@@ -32,33 +32,18 @@ redirect_from:
   </div>
 </section>
 
-<section id="organization" class="home-section organization-section">
-  <h1>Organization of Tutorials and Workshops</h1>
-  <div class="organization-grid">
-    <article class="organization-card">
-      <p class="organization-meta">CVPR 2026</p>
-      <h2>KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning</h2>
-      <a href="https://knowledgemr-workshop.github.io/" target="_blank" rel="noopener">Link</a>
-    </article>
+<section id="organization" class="home-section organization-section" markdown="1">
 
-    <article class="organization-card">
-      <p class="organization-meta">AAAI 2026</p>
-      <h2>AI4Research: Workshop on AI for Scientific Research</h2>
-      <a href="https://ai4research-workshop.github.io/" target="_blank" rel="noopener">Link</a>
-    </article>
+# Organization of Tutorials and Workshops
 
-    <article class="organization-card">
-      <p class="organization-meta">ICCV 2025</p>
-      <h2>KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning</h2>
-      <a href="https://knowledgemr-workshop.github.io/" target="_blank" rel="noopener">Link</a>
-    </article>
+- *CVPR 2026*, **KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning** [[Link](https://knowledgemr-workshop.github.io/)]
 
-    <article class="organization-card">
-      <p class="organization-meta">CVPR 2025</p>
-      <h2>Multimodal Mathematical Reasoning Tutorial: Frontiers in Integrating Vision, Language, and Symbolic Representations</h2>
-      <a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank" rel="noopener">Link</a>
-    </article>
-  </div>
+- *AAAI 2026*, **AI4Research: Workshop on AI for Scientific Research** [[Link](https://ai4research-workshop.github.io/)]
+
+- *ICCV 2025*, **KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning** [[Link](https://knowledgemr-workshop.github.io/)]
+
+- *CVPR 2025*, **Multimodal Mathematical Reasoning Tutorial: Frontiers in Integrating Vision, Language, and Symbolic Representations** [[Link](https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/)]
+
 </section>
 
 <section id="publications" class="home-section publications-section">
@@ -177,11 +162,14 @@ redirect_from:
 
 # Experience
 
-- *2026.01 - 2026.05*, **Samsung Research America**
+- *2026.01 - 2026.05*, **Samsung Research America**<br>
+  Research Intern
 
-- *2025.05 - 2025.08*, **Bosch Research**
+- *2025.05 - 2025.08*, **Bosch Research**<br>
+  Research Intern
 
-- *2023.05 - 2023.08*, **Intel & OpenCV.org**
+- *2023.05 - 2023.08*, **Intel & OpenCV.org**<br>
+  SDE Intern
 
 </section>
 
