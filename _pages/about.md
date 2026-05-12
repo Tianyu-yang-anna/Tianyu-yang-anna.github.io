@@ -36,13 +36,11 @@ redirect_from:
 
 # Organization of Tutorials and Workshops
 
-- *CVPR 2026*, **KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning** [[Link](https://knowledgemr-workshop.github.io/)]
+- *CVPR 2026 / ICCV 2025*, KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning [[Link](https://knowledgemr-workshop.github.io/)]
 
-- *AAAI 2026*, **AI4Research: Workshop on AI for Scientific Research** [[Link](https://ai4research-workshop.github.io/)]
+- *AAAI 2026*, AI4Research: Workshop on AI for Scientific Research [[Link](https://ai4research-workshop.github.io/)]
 
-- *ICCV 2025*, **KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning** [[Link](https://knowledgemr-workshop.github.io/)]
-
-- *CVPR 2025*, **Multimodal Mathematical Reasoning Tutorial: Frontiers in Integrating Vision, Language, and Symbolic Representations** [[Link](https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/)]
+- *CVPR 2025*, Multimodal Mathematical Reasoning Tutorial: Frontiers in Integrating Vision, Language, and Symbolic Representations [[Link](https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/)]
 
 </section>
 
