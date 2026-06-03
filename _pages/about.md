@@ -19,7 +19,7 @@ redirect_from:
   <h1>About Me</h1>
   <div class="about-text">
     <p>
-      Hi there, I am a second-year CS PhD student at the
+      Hi there, I am a third-year CS PhD student at the
       <a href="https://www.nd.edu/" target="_blank" rel="noopener">University of Notre Dame</a>.
       I am fortunate to have
       <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank" rel="noopener">Professor Xiangliang Zhang</a>
@@ -27,8 +27,13 @@ redirect_from:
       <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>.
     </p>
     <p>
-      Currently, my research focuses on building reliable multimodal foundation models and agentic systems with strong multimodal understanding, reasoning, and long-horizon decision-making capabilities. I also work on knowledge-intensive multimodal systems, including retrieval-augmented generation and agentic workflows, for scientific and real-world applications.
+      My research broadly focuses on multimodal intelligence, including text, vision, audio, and other modalities, for real-world interaction. My current methodological interests include:
     </p>
+    <ol>
+      <li>Agentic RL for LLMs and MLLMs</li>
+      <li>Multimodal perception and reasoning</li>
+      <li>Multimodal knowledge editing</li>
+    </ol>
   </div>
 </section>
 
@@ -49,6 +54,18 @@ redirect_from:
   <p class="pub-note"><em>* indicates equal contribution</em></p>
 
   <div class="publication-list">
+    <article class="publication-card">
+      <figure class="publication-image">
+        <img src="{{ '/images/publications/trustworthy-memory-consolidation.png' | relative_url }}" alt="Trustworthy Memory Consolidation teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <span class="publication-image-fallback">Image pending</span>
+      </figure>
+      <div class="publication-body">
+        <h2>Towards Trustworthy Memory Consolidation in Long-Term Memory Agents</h2>
+        <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Sudipta Paul, Vijay Srinivasan, Vivek Kulkarni, Srinivas Chappidi</p>
+        <p class="publication-venue">in submission 2026</p>
+      </div>
+    </article>
+
     <article class="publication-card">
       <figure class="publication-image">
         <img src="{{ '/images/publications/mm-vara.png' | relative_url }}" alt="MM-VARA teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
@@ -152,7 +169,7 @@ redirect_from:
 
 # Personal Service
 
-- Reviewer: ACL Rolling Review (2021-2025) and other ACL events, CVPR, COLM, ICLR, NeurIPS, ICML, ECCV, ICLR
+- Reviewer: ARR Rolling Review (2023-2025), CVPR, ECCV, ICCV, COLM, ICLR, NeurIPS, ICML, KDD, CIKM, ICDM
 
 </section>
 
