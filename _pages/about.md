@@ -96,7 +96,7 @@ redirect_from:
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
-        <h2>DesignAgent: Interactive Object-Level Indoor 3D Scene Editing via Multimodal Agentic Reasoning</h2>
+        <h2>DesignAgent: Interactive 3D Scene Editing via Multimodal Agentic Reasoning</h2>
         <p class="publication-authors">Xiujin Liu*, <strong><em>Tianyu Yang*</em></strong>, Chen Zhao, Yilun Zhao, Xiangliang Zhang</p>
         <p class="publication-venue">in submission 2026</p>
       </div>
