@@ -60,9 +60,10 @@ redirect_from:
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
-        <h2>Towards Trustworthy Memory Consolidation in Long-Term Memory Agents</h2>
+        <h2>TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Sudipta Paul, Vijay Srinivasan, Vivek Kulkarni, Srinivas Chappidi</p>
-        <p class="publication-venue">in submission 2026</p>
+        <p class="publication-venue">arXiv</p>
+        <p class="publication-links"><a href="https://arxiv.org/pdf/2606.25161" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
 
@@ -177,6 +178,9 @@ redirect_from:
 
 # Experience
 
+- *2026.06 - 2026.09*, **Zillow**<br>
+  Research Intern
+
 - *2026.01 - 2026.05*, **Samsung Research America**<br>
   Research Intern
 
@@ -189,6 +193,6 @@ redirect_from:
 </section>
 
 <footer class="home-footer">
-  <p>&copy; 2026 Tianyu Yang · Last updated: May 2026</p>
+  <p>&copy; 2026 Tianyu Yang · Last updated: June 2026</p>
   <p>Style inspired by <a href="https://xirui-li.github.io/" target="_blank" rel="noopener">Xirui Li</a>.</p>
 </footer>
