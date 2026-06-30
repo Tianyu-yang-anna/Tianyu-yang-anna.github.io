@@ -62,7 +62,7 @@ redirect_from:
       <div class="publication-body">
         <h2>TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Sudipta Paul, Vijay Srinivasan, Vivek Kulkarni, Srinivas Chappidi</p>
-        <p class="publication-venue">arXiv</p>
+        <p class="publication-venue">arXiv preprint 2026</p>
         <p class="publication-links"><a href="https://arxiv.org/pdf/2606.25161" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
