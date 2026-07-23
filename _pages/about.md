@@ -25,7 +25,7 @@ redirect_from:
       I am advised by
       <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank" rel="noopener">Professor Xiangliang Zhang</a>
       and grateful for the guidance of
-      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. I serve as Area Chair at ARR.
+      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. I serve as Area Chair at ARR 2026.
     </p>
     <p class="internship-line">
       During my Ph.D., I interned at Zillow
@@ -93,10 +93,6 @@ redirect_from:
       <li>
         <span class="news-date">2025.05</span>
         <span class="news-content">Joined Bosch AI Center as a Research Scientist Intern.</span>
-      </li>
-      <li>
-        <span class="news-date">2025.01</span>
-        <span class="news-content">One paper accepted by Reasoning and Planning for LLMs @ ICLR 2025. Thanks to my amazing collaborators.</span>
       </li>
       <li>
         <span class="news-date">2024.11</span>

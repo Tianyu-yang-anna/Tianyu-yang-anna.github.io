@@ -118,7 +118,7 @@ h1:before, .anchor:before {
     --academic-sidebar-bg: #f7fafc;
     --academic-border: #e3e8ef;
     --academic-soft: #f3f6f9;
-    --academic-sidebar-width: 430px;
+    --academic-sidebar-width: 400px;
 }
 
 html {
@@ -154,7 +154,7 @@ body {
     width: var(--academic-sidebar-width) !important;
     height: 100vh;
     margin: 0;
-    padding: 2.2rem 2rem;
+    padding: 1.2rem 2rem 2.2rem;
     overflow-y: auto;
     background: var(--academic-sidebar-bg);
     border-right: 1px solid var(--academic-border);
@@ -178,13 +178,14 @@ body {
 
 .profile_box > .author__avatar img.author__avatar {
     display: block;
-    width: 132px;
-    height: 132px;
+    width: 142px;
+    height: 142px;
     min-width: 0;
     max-width: none;
     margin: 0 auto 1rem;
     padding: 0;
     object-fit: cover;
+    object-position: center top;
     border: 3px solid var(--academic-border);
     border-radius: 50%;
     box-shadow: 0 8px 24px rgba(26, 54, 93, 0.12);
