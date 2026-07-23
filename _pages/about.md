@@ -20,20 +20,105 @@ redirect_from:
   <div class="about-text">
     <p>
       Hi there, I am a third-year CS PhD student at the
-      <a href="https://www.nd.edu/" target="_blank" rel="noopener">University of Notre Dame</a>.
-      I am fortunate to have
+      <a href="https://www.nd.edu/" target="_blank" rel="noopener">University of Notre Dame</a>
+      <img class="school-mark" src="{{ '/images/logos/notre-dame.svg' | relative_url }}" alt="University of Notre Dame monogram">.
+      I am advised by
       <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank" rel="noopener">Professor Xiangliang Zhang</a>
-      as my advisor and grateful for the guidance of
-      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>.
+      and grateful for the guidance of
+      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. I serve as Area Chair at ARR.
+    </p>
+    <p class="internship-line">
+      During my Ph.D., I interned at Zillow
+      <img class="company-mark" src="{{ '/images/logos/zillow.svg' | relative_url }}" alt="Zillow logo">
+      on self-evolving LLM agents (Summer 2026), Samsung Research America
+      <span class="company-wordmark company-wordmark-samsung" aria-label="Samsung logo">SAMSUNG</span>
+      on long-term memory agents (Spring 2026), and Bosch AI Center
+      <img class="company-mark" src="{{ '/images/logos/bosch.svg' | relative_url }}" alt="Bosch logo">
+      on agentic multimodal RAG (Summer 2025).
     </p>
     <p>
-      My research broadly focuses on multimodal intelligence, including text, vision, audio, and other modalities, for real-world interaction. My current methodological interests include:
+      My recent research broadly focuses on LLM/MLLM agents, with interests in agentic RL, multimodal perception and reasoning, and reliable real-world interaction.
     </p>
-    <ol>
-      <li>Agentic RL for LLMs and MLLMs</li>
-      <li>Multimodal perception and reasoning</li>
-      <li>Multimodal knowledge editing</li>
-    </ol>
+  </div>
+</section>
+
+<section id="news" class="home-section news-section">
+  <h1>News</h1>
+  <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
+    <ul>
+      <li>
+        <span class="news-date">2026.06</span>
+        <span class="news-content">Served as an Area Chair for EMNLP 2026.</span>
+      </li>
+      <li>
+        <span class="news-date">2026.06</span>
+        <span class="news-content">One paper accepted by COLM 2026. Thanks to my amazing collaborators.</span>
+      </li>
+      <li>
+        <span class="news-date">2026.06</span>
+        <span class="news-content">Joined Zillow as an Applied Scientist Intern.</span>
+      </li>
+      <li>
+        <span class="news-date">2026.04</span>
+        <span class="news-content">We are excited to announce the <a href="https://knowledgemr-workshop.github.io/" target="_blank" rel="noopener">KnowledgeMR Workshop</a> at CVPR 2026. We invite paper submissions.</span>
+      </li>
+      <li>
+        <span class="news-date">2026.04</span>
+        <span class="news-content">One first-author paper accepted by ACL 2026. Thanks to my amazing collaborators.</span>
+      </li>
+      <li>
+        <span class="news-date">2026.01</span>
+        <span class="news-content">Joined Samsung Research America as a Research Scientist Intern.</span>
+      </li>
+      <li>
+        <span class="news-date">2025.09</span>
+        <span class="news-content">Two papers accepted by EMNLP 2025, including one first-author paper. Thanks to my amazing collaborators.</span>
+      </li>
+      <li>
+        <span class="news-date">2025.09</span>
+        <span class="news-content">We are excited to announce the <a href="https://ai4research-workshop.github.io/" target="_blank" rel="noopener">AI for Scientific Research Workshop</a> at AAAI 2026. We invite paper submissions.</span>
+      </li>
+      <li>
+        <span class="news-date">2025.06</span>
+        <span class="news-content">We are excited to announce the <a href="https://knowledgemr-workshop.github.io/" target="_blank" rel="noopener">KnowledgeMR Workshop</a> at ICCV 2025. We invite paper submissions.</span>
+      </li>
+      <li>
+        <span class="news-date">2025.06</span>
+        <span class="news-content">We will organize a tutorial on <a href="https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/" target="_blank" rel="noopener">Multimodal Mathematical Reasoning</a> at CVPR 2025. See you in Nashville!</span>
+      </li>
+      <li>
+        <span class="news-date">2025.05</span>
+        <span class="news-content">Three papers accepted by ACL 2025, including one first-author paper. Thanks to my amazing collaborators.</span>
+      </li>
+      <li>
+        <span class="news-date">2025.05</span>
+        <span class="news-content">Joined Bosch AI Center as a Research Scientist Intern.</span>
+      </li>
+      <li>
+        <span class="news-date">2025.01</span>
+        <span class="news-content">One paper accepted by Reasoning and Planning for LLMs @ ICLR 2025. Thanks to my amazing collaborators.</span>
+      </li>
+      <li>
+        <span class="news-date">2024.11</span>
+        <span class="news-content">One paper accepted by WSDM 2025. Thanks to my amazing collaborators.</span>
+      </li>
+      <li>
+        <span class="news-date">2024.09</span>
+        <span class="news-content">One first-author paper accepted by EMNLP 2024. Thanks to my amazing collaborators.</span>
+      </li>
+      <li>
+        <span class="news-date">2024.05</span>
+        <span class="news-content">I have passed the qualifying exam.</span>
+      </li>
+      <li>
+        <span class="news-date">2024.05</span>
+        <span class="news-content">One paper accepted by ACL 2024. Thanks to my amazing collaborators.</span>
+      </li>
+      <li>
+        <span class="news-date">2023.10</span>
+        <span class="news-content">One paper accepted by EMNLP 2023. Thanks to my amazing collaborators.</span>
+      </li>
+    </ul>
   </div>
 </section>
 
@@ -170,7 +255,9 @@ redirect_from:
 
 # Personal Service
 
-- Reviewer: ARR Rolling Review (2023-2025), CVPR, ECCV, ICCV, COLM, ICLR, NeurIPS, ICML, KDD, CIKM, ICDM
+- Area Chair: ARR Rolling Review 2026
+
+- Reviewer: ARR Rolling Review (2023-2026), CVPR, ICCV, ECCV, COLM, ICLR, NeurIPS, ICML, KDD, CIKM, ICDM
 
 </section>
 
@@ -179,16 +266,13 @@ redirect_from:
 # Experience
 
 - *2026.06 - 2026.09*, **Zillow**<br>
-  Research Intern
+  Applied Scientist Intern
 
 - *2026.01 - 2026.05*, **Samsung Research America**<br>
-  Research Intern
+  Research Scientist Intern
 
-- *2025.05 - 2025.08*, **Bosch Research**<br>
-  Research Intern
-
-- *2023.05 - 2023.08*, **Intel & OpenCV.org**<br>
-  SDE Intern
+- *2025.05 - 2025.08*, **Bosch AI Center**<br>
+  Research Scientist Intern
 
 </section>
 
