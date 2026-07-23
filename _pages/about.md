@@ -19,13 +19,12 @@ redirect_from:
   <h1>About Me</h1>
   <div class="about-text">
     <p>
-      Hi there, I am a third-year CS PhD student at the
+      Hi there! I am a third-year CS PhD student at the
       <a href="https://www.nd.edu/" target="_blank" rel="noopener">University of Notre Dame</a>
-      <img class="school-mark" src="{{ '/images/logos/notre-dame.svg' | relative_url }}" alt="University of Notre Dame monogram">.
-      I am advised by
+      <img class="school-mark" src="{{ '/images/logos/notre-dame.svg' | relative_url }}" alt="University of Notre Dame monogram">, advised by
       <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank" rel="noopener">Professor Xiangliang Zhang</a>
       and grateful for the guidance of
-      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. I serve as Area Chair at ARR 2026.
+      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. My research focuses on post-training LLMs and MLLMs, particularly through agentic reinforcement learning. I also serve as an Area Chair for ARR 2026.
     </p>
     <p class="internship-line">
       During my Ph.D., I interned at Zillow
@@ -35,9 +34,6 @@ redirect_from:
       on long-term memory agents (Spring 2026), and Bosch AI Center
       <img class="company-mark" src="{{ '/images/logos/bosch.svg' | relative_url }}" alt="Bosch logo">
       on agentic multimodal RAG (Summer 2025).
-    </p>
-    <p>
-      My recent research broadly focuses on LLM/MLLM agents, with interests in agentic RL, multimodal perception and reasoning, and reliable real-world interaction.
     </p>
   </div>
 </section>
