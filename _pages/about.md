@@ -24,7 +24,7 @@ redirect_from:
       <img class="school-mark" src="{{ '/images/logos/notre-dame.svg' | relative_url }}" alt="University of Notre Dame monogram">, advised by
       <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank" rel="noopener">Professor Xiangliang Zhang</a>
       and grateful for the guidance of
-      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. My research focuses on post-training LLMs and MLLMs, particularly through agentic reinforcement learning. I also serve as an Area Chair for ARR 2026.
+      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. My research focuses on post-training LLMs and MLLMs to build agents that can perceive, reason, and interact with real-world environments across language, vision, and audio. I also serve as an Area Chair for ARR 2026.
     </p>
     <p class="internship-line">
       During my Ph.D., I interned at Zillow
