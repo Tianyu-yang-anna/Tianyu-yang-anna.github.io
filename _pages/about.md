@@ -24,7 +24,7 @@ redirect_from:
       <img class="school-mark" src="{{ '/images/logos/notre-dame.svg' | relative_url }}" alt="University of Notre Dame monogram">, advised by
       <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank" rel="noopener">Professor Xiangliang Zhang</a>
       and grateful for the guidance of
-      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. My research focuses on post-training LLMs and MLLMs to build agents capable of multimodal perception, reasoning, and real-world interaction. I also serve as an Area Chair for ARR 2026.
+      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. My research focuses on post-training LLMs and MLLMs to build agents that perceive, reason, and act. I also serve as an Area Chair for ARR 2026.
     </p>
     <p class="internship-line">
       During my Ph.D., I interned at Zillow
@@ -48,7 +48,7 @@ redirect_from:
       </li>
       <li>
         <span class="news-date">2026.06</span>
-        <span class="news-content">One paper accepted by COLM 2026. Thanks to my amazing collaborators.</span>
+        <span class="news-content">One paper accepted by COLM 2026.</span>
       </li>
       <li>
         <span class="news-date">2026.06</span>
@@ -92,7 +92,7 @@ redirect_from:
       </li>
       <li>
         <span class="news-date">2024.11</span>
-        <span class="news-content">One paper accepted by WSDM 2025. Thanks to my amazing collaborators.</span>
+        <span class="news-content">One paper accepted by WSDM 2025.</span>
       </li>
       <li>
         <span class="news-date">2024.09</span>
@@ -104,11 +104,11 @@ redirect_from:
       </li>
       <li>
         <span class="news-date">2024.05</span>
-        <span class="news-content">One paper accepted by ACL 2024. Thanks to my amazing collaborators.</span>
+        <span class="news-content">One paper accepted by ACL 2024.</span>
       </li>
       <li>
         <span class="news-date">2023.10</span>
-        <span class="news-content">One paper accepted by EMNLP 2023. Thanks to my amazing collaborators.</span>
+        <span class="news-content">One paper accepted by EMNLP 2023.</span>
       </li>
     </ul>
   </div>
@@ -146,13 +146,14 @@ redirect_from:
 
     <article class="publication-card">
       <figure class="publication-image">
-        <img src="{{ '/images/publications/mm-vara.png' | relative_url }}" alt="MM-VARA teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <img src="{{ '/images/publications/mm-vara.png' | relative_url }}" alt="Reason Before You Retrieve teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
-        <h2>MM-VARA: Understanding-Then-Retrieving for Agentic Multimodal RAG</h2>
+        <h2>Reason Before You Retrieve: Agentic Planning for Multi-modal RAG</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Simon Shir, Zhenzhen Li, Minhao Cheng, Xiangliang Zhang</p>
-        <p class="publication-venue">in submission 2026</p>
+        <p class="publication-venue">arXiv preprint 2026</p>
+        <p class="publication-links"><a href="https://arxiv.org/pdf/2607.22643" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
 
