@@ -556,6 +556,11 @@ body {
     margin-top: 0.1rem;
 }
 
+.news-award {
+    color: #c62828;
+    font-weight: 700;
+}
+
 .organization-section li,
 .education-section li,
 .service-section li,
@@ -754,6 +759,11 @@ body {
     color: var(--academic-muted);
     font-style: italic;
     font-weight: 600;
+}
+
+.publication-award {
+    color: #c62828;
+    font-weight: 700;
 }
 
 .publication-links {
