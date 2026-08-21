@@ -43,6 +43,13 @@ redirect_from:
   <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
     <ul>
       <li>
+        <span class="news-date">2026.08</span>
+        <span class="news-content">
+          <span class="news-main">Our paper <a href="https://arxiv.org/abs/2606.25161" target="_blank" rel="noopener">TRUSTMEM</a> was accepted to EMNLP 2026 and received the <span class="news-award">Samsung Best Paper Award</span>.</span>
+          <span class="news-note">Samsung Research America internship work. Many thanks to my mentors for their guidance and support.</span>
+        </span>
+      </li>
+      <li>
         <span class="news-date">2026.06</span>
         <span class="news-content">Served as an Area Chair for EMNLP 2026.</span>
       </li>
@@ -139,7 +146,7 @@ redirect_from:
       <div class="publication-body">
         <h2>TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Sudipta Paul, Vijay Srinivasan, Vivek Kulkarni, Srinivas Chappidi</p>
-        <p class="publication-venue">arXiv preprint 2026</p>
+        <p class="publication-venue">EMNLP 2026 <span class="publication-award">(Samsung Best Paper Award)</span></p>
         <p class="publication-links"><a href="https://arxiv.org/pdf/2606.25161" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
@@ -203,7 +210,10 @@ redirect_from:
         <h2>Quest2DataAgent: Automating End-to-End Scientific Data Collection</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Yuhan Liu, Ethan Brown, Sobin Alosious, Jason Rohr, Tengfei Luo, Xiangliang Zhang</p>
         <p class="publication-venue">EMNLP 2025</p>
-        <p class="publication-links"><a href="https://aclanthology.org/2025.emnlp-demos.36.pdf" target="_blank" rel="noopener">pdf</a></p>
+        <p class="publication-links">
+          <a href="https://aclanthology.org/2025.emnlp-demos.36.pdf" target="_blank" rel="noopener">pdf</a>
+          <a href="https://github.com/Tianyu-yang-anna/Quest2DataAgent" target="_blank" rel="noopener">code</a>
+        </p>
       </div>
     </article>
 
@@ -216,7 +226,10 @@ redirect_from:
         <h2>CLIPErase: Efficient Unlearning of Visual-Textual Associations in CLIP</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Lisen Dai, Xiangqi Wang, Minhao Cheng, Yapeng Tian, Xiangliang Zhang</p>
         <p class="publication-venue">ACL 2025</p>
-        <p class="publication-links"><a href="https://arxiv.org/pdf/2410.23330" target="_blank" rel="noopener">pdf</a></p>
+        <p class="publication-links">
+          <a href="https://arxiv.org/pdf/2410.23330" target="_blank" rel="noopener">pdf</a>
+          <a href="https://github.com/Tianyu-yang-anna/ClipErase-ACL" target="_blank" rel="noopener">code</a>
+        </p>
       </div>
     </article>
 
@@ -229,7 +242,10 @@ redirect_from:
         <h2>SaSR-Net: Source-Aware Semantic Representation Network for Enhancing Audio-Visual Question Answering</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Yiyang Nan, Lisen Dai, Zhenwen Liang, Yapeng Tian, Xiangliang Zhang</p>
         <p class="publication-venue">EMNLP 2024</p>
-        <p class="publication-links"><a href="https://arxiv.org/abs/2411.04933" target="_blank" rel="noopener">pdf</a></p>
+        <p class="publication-links">
+          <a href="https://arxiv.org/abs/2411.04933" target="_blank" rel="noopener">pdf</a>
+          <a href="https://github.com/Tianyu-yang-anna/SaSR-Net" target="_blank" rel="noopener">code</a>
+        </p>
       </div>
     </article>
   </div>
