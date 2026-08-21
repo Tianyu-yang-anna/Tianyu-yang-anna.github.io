@@ -45,7 +45,7 @@ redirect_from:
       <li>
         <span class="news-date">2026.08</span>
         <span class="news-content">
-          <span class="news-main">Our paper <a href="https://arxiv.org/abs/2606.25161" target="_blank" rel="noopener">TRUSTMEM</a> was accepted to EMNLP 2026 and received the <span class="news-award">Samsung Best Paper Award</span>.</span>
+          <span class="news-main">Our paper <a href="https://arxiv.org/abs/2606.25161" target="_blank" rel="noopener">TRUSTMEM</a> was accepted to EMNLP 2026.</span>
           <span class="news-note">Samsung Research America internship work. Many thanks to my mentors for their guidance and support.</span>
         </span>
       </li>
@@ -146,7 +146,7 @@ redirect_from:
       <div class="publication-body">
         <h2>TRUSTMEM: Learning Trustworthy Memory Consolidation for LLM Agents with Long-Term Memory</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Sudipta Paul, Vijay Srinivasan, Vivek Kulkarni, Srinivas Chappidi</p>
-        <p class="publication-venue">EMNLP 2026 <span class="publication-award">(Samsung Best Paper Award)</span></p>
+        <p class="publication-venue">EMNLP 2026</p>
         <p class="publication-links"><a href="https://arxiv.org/pdf/2606.25161" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
