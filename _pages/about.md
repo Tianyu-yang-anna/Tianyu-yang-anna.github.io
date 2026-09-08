@@ -185,6 +185,7 @@ redirect_from:
         <h2>DesignAgent: Interactive 3D Scene Editing via Multimodal Agentic Reasoning</h2>
         <p class="publication-authors">Xiujin Liu*, <strong><em>Tianyu Yang*</em></strong>, Chen Zhao, Yilun Zhao, Xiangliang Zhang</p>
         <p class="publication-venue">in submission 2026</p>
+        <p class="publication-links"><a href="https://arxiv.org/pdf/2608.21438v1" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
 
