@@ -141,7 +141,7 @@ redirect_from:
   <div class="publication-list">
     <article class="publication-card">
       <figure class="publication-image">
-        <img src="{{ '/images/publications/trustworthy-memory-consolidation.png' | relative_url }}" alt="Trustworthy Memory Consolidation teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <img src="{{ '/images/publications/trustworthy-memory-consolidation.webp' | relative_url }}" alt="Trustworthy Memory Consolidation teaser" width="1200" height="675" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
@@ -154,7 +154,7 @@ redirect_from:
 
     <article class="publication-card">
       <figure class="publication-image">
-        <img src="{{ '/images/publications/mm-vara.png' | relative_url }}" alt="Reason Before You Retrieve teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <img src="{{ '/images/publications/mm-vara.webp' | relative_url }}" alt="Reason Before You Retrieve teaser" width="1200" height="675" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
@@ -167,7 +167,7 @@ redirect_from:
 
     <article class="publication-card">
       <figure class="publication-image">
-        <img src="{{ '/images/publications/agentic-multimodal-rag.png' | relative_url }}" alt="Agentic Multimodal RAG teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <img src="{{ '/images/publications/agentic-multimodal-rag.webp' | relative_url }}" alt="Agentic Multimodal RAG teaser" width="1200" height="675" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
@@ -179,7 +179,7 @@ redirect_from:
 
     <article class="publication-card">
       <figure class="publication-image">
-        <img src="{{ '/images/publications/designagent.png' | relative_url }}" alt="DesignAgent teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <img src="{{ '/images/publications/designagent.webp' | relative_url }}" alt="DesignAgent teaser" width="1200" height="675" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
@@ -192,7 +192,7 @@ redirect_from:
 
     <article class="publication-card">
       <figure class="publication-image">
-        <img src="{{ '/images/publications/multimodal-math-reasoning.png' | relative_url }}" alt="Multimodal mathematical reasoning teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <img src="{{ '/images/publications/multimodal-math-reasoning.webp' | relative_url }}" alt="Multimodal mathematical reasoning teaser" width="1200" height="675" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
@@ -205,7 +205,7 @@ redirect_from:
 
     <article class="publication-card">
       <figure class="publication-image">
-        <img src="{{ '/images/publications/quest2dataagent.png' | relative_url }}" alt="Quest2DataAgent teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <img src="{{ '/images/publications/quest2dataagent.webp' | relative_url }}" alt="Quest2DataAgent teaser" width="1200" height="675" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
@@ -221,7 +221,7 @@ redirect_from:
 
     <article class="publication-card">
       <figure class="publication-image">
-        <img src="{{ '/images/publications/cliperase.png' | relative_url }}" alt="CLIPErase teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <img src="{{ '/images/publications/cliperase.webp' | relative_url }}" alt="CLIPErase teaser" width="1200" height="675" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
@@ -237,7 +237,7 @@ redirect_from:
 
     <article class="publication-card">
       <figure class="publication-image">
-        <img src="{{ '/images/publications/sasr-net.png' | relative_url }}" alt="SaSR-Net teaser" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <img src="{{ '/images/publications/sasr-net.webp' | relative_url }}" alt="SaSR-Net teaser" width="1200" height="675" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
