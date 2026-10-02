@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+seo_title: "Tianyu Yang | University of Notre Dame"
+last_modified_at: 2026-10-02
 author_profile: true
 redirect_from:
   - /about/
@@ -196,7 +197,7 @@ redirect_from:
       </figure>
       <div class="publication-body">
         <h2>Deconstructing Multimodal Mathematical Reasoning: Towards a Unified Perception-Alignment-Reasoning Paradigm</h2>
-        <p class="publication-authors"><strong><em>Tianyu Yang*</em></strong>, Sihong Wu*, Yilun Zhao, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang</p>
+        <p class="publication-authors"><strong><em>Tianyu Yang*</em></strong>, Sihong Wu*, Yilun Zhao*, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang</p>
         <p class="publication-venue">ACL 2026</p>
         <p class="publication-links"><a href="https://arxiv.org/pdf/2603.08291" target="_blank" rel="noopener">pdf</a></p>
       </div>

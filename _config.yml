@@ -7,8 +7,10 @@
 
 # Site Settings
 title                    : "Tianyu Yang"
-description              : ""
-repository               : "Tianyu-yang-anna.github.io"
+description              : "Tianyu Yang is a Computer Science PhD student at the University of Notre Dame, researching LLM/MLLM post-training, agentic reinforcement learning, and multimodal AI."
+url                      : "https://tianyu-yang-anna.github.io"
+baseurl                  : ""
+repository               : "Tianyu-yang-anna/Tianyu-yang-anna.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
