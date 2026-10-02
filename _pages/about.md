@@ -20,7 +20,7 @@ redirect_from:
   <h1>About Me</h1>
   <div class="about-text">
     <p>
-      Hi there! I am a third-year CS PhD student at the
+      Hi there! I am Tianyu Yang, a third-year CS PhD student at the
       <a href="https://www.nd.edu/" target="_blank" rel="noopener">University of Notre Dame</a>
       <img class="school-mark" src="{{ '/images/logos/notre-dame.svg' | relative_url }}" alt="University of Notre Dame monogram">, advised by
       <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank" rel="noopener">Professor Xiangliang Zhang</a>
