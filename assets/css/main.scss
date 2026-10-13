@@ -733,6 +733,10 @@ body {
     min-width: 0;
 }
 
+.publication-card > .publication-body:only-child {
+    grid-column: 1 / -1;
+}
+
 .publication-body h2 {
     margin: 0 0 0.45rem;
     color: var(--academic-primary);

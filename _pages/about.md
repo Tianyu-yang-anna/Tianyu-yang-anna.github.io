@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 seo_title: "Tianyu Yang | University of Notre Dame"
-last_modified_at: 2026-10-02
+last_modified_at: 2026-10-13
 author_profile: true
 redirect_from:
   - /about/
@@ -43,6 +43,10 @@ redirect_from:
   <h1>News</h1>
   <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
     <ul>
+      <li>
+        <span class="news-date">2026.10</span>
+        <span class="news-content">We are excited to announce the <a href="https://ai4research-workshop.github.io/" target="_blank" rel="noopener">AI4Research Workshop</a> at AAAI 2027. We invite paper submissions.</span>
+      </li>
       <li>
         <span class="news-date">2026.08</span>
         <span class="news-content">
@@ -140,6 +144,14 @@ redirect_from:
 
   <div class="publication-list">
     <article class="publication-card">
+      <div class="publication-body">
+        <h2><a href="https://xid32.github.io/images/publications/ECHO.pdf" target="_blank" rel="noopener">Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents</a></h2>
+        <p class="publication-authors">Xingjian Diao*, <strong><em>Tianyu Yang*</em></strong>, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang, Jiang Gui</p>
+        <p class="publication-links"><a href="https://xid32.github.io/images/publications/ECHO.pdf" target="_blank" rel="noopener">pdf</a></p>
+      </div>
+    </article>
+
+    <article class="publication-card">
       <figure class="publication-image">
         <img src="{{ '/images/publications/trustworthy-memory-consolidation.webp' | relative_url }}" alt="Trustworthy Memory Consolidation teaser" width="1200" height="675" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
         <span class="publication-image-fallback">Image pending</span>
@@ -185,8 +197,7 @@ redirect_from:
       <div class="publication-body">
         <h2>DesignAgent: Interactive 3D Scene Editing via Multimodal Agentic Reasoning</h2>
         <p class="publication-authors">Xiujin Liu*, <strong><em>Tianyu Yang*</em></strong>, Chen Zhao, Yilun Zhao, Xiangliang Zhang</p>
-        <p class="publication-venue">in submission 2026</p>
-        <p class="publication-links"><a href="https://arxiv.org/pdf/2608.21438v1" target="_blank" rel="noopener">pdf</a></p>
+        <p class="publication-venue">arXiv preprint 2026</p>
       </div>
     </article>
 
