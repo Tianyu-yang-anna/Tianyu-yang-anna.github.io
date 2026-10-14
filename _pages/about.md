@@ -151,6 +151,7 @@ redirect_from:
       <div class="publication-body">
         <h2>Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents</h2>
         <p class="publication-authors">Xingjian Diao*, <strong><em>Tianyu Yang*</em></strong>, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang<sup>&dagger;</sup>, Jiang Gui<sup>&dagger;</sup></p>
+        <p class="publication-venue">arXiv preprint 2026</p>
         <p class="publication-links"><a href="https://arxiv.org/pdf/2610.16027" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
@@ -189,6 +190,7 @@ redirect_from:
       <div class="publication-body">
         <h2>When Rewards Reshape Alignment: Drift in Self-Evolving Agents</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong><sup>&dagger;</sup>, Austin Tian, Reid A. Johnson, Baoyuan Wang, Xiangliang Zhang<sup>&dagger;</sup></p>
+        <p class="publication-venue">in submission 2026</p>
       </div>
     </article>
 
