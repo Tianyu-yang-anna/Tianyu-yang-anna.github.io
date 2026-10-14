@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 seo_title: "Tianyu Yang | University of Notre Dame"
-last_modified_at: 2026-10-13
+last_modified_at: 2026-10-14
 author_profile: true
 redirect_from:
   - /about/
@@ -149,7 +149,7 @@ redirect_from:
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
-        <h2><a href="https://arxiv.org/abs/2610.16027" target="_blank" rel="noopener">Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents</a></h2>
+        <h2>Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents</h2>
         <p class="publication-authors">Xingjian Diao*, <strong><em>Tianyu Yang*</em></strong>, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang<sup>&dagger;</sup>, Jiang Gui<sup>&dagger;</sup></p>
         <p class="publication-links"><a href="https://arxiv.org/pdf/2610.16027" target="_blank" rel="noopener">pdf</a></p>
       </div>
@@ -178,6 +178,17 @@ redirect_from:
         <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Simon Shir, Zhenzhen Li, Minhao Cheng, Xiangliang Zhang</p>
         <p class="publication-venue">arXiv preprint 2026</p>
         <p class="publication-links"><a href="https://arxiv.org/pdf/2607.22643" target="_blank" rel="noopener">pdf</a></p>
+      </div>
+    </article>
+
+    <article class="publication-card">
+      <figure class="publication-image">
+        <img src="{{ '/images/publications/rewards-reshape-alignment.webp' | relative_url }}" alt="Task performance improvements and safety violation changes across math, code, privacy, and planning" width="930" height="876" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <span class="publication-image-fallback">Image pending</span>
+      </figure>
+      <div class="publication-body">
+        <h2>When Rewards Reshape Alignment: Drift in Self-Evolving Agents</h2>
+        <p class="publication-authors"><strong><em>Tianyu Yang</em></strong><sup>&dagger;</sup>, Austin Tian, Reid A. Johnson, Baoyuan Wang, Xiangliang Zhang<sup>&dagger;</sup></p>
       </div>
     </article>
 
