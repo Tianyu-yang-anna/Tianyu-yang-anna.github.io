@@ -201,7 +201,7 @@ redirect_from:
       <div class="publication-body">
         <h2>DesignAgent: Interactive 3D Scene Editing via Multimodal Agentic Reasoning</h2>
         <p class="publication-authors">Xiujin Liu*, <strong><em>Tianyu Yang*</em></strong>, Chen Zhao, Yilun Zhao, Xiangliang Zhang</p>
-        <p class="publication-venue">arXiv preprint 2026</p>
+        <p class="publication-venue">in submission 2026</p>
       </div>
     </article>
 
@@ -291,7 +291,7 @@ redirect_from:
 
 # Experience
 
-- *2026.06 - 2026.09*, **Zillow**<br>
+- *2026.06 - 2026.10*, **Zillow**<br>
   Applied Scientist Intern
 
 - *2026.01 - 2026.05*, **Samsung Research America**<br>
