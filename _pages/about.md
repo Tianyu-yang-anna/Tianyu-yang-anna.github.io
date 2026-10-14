@@ -154,7 +154,6 @@ redirect_from:
         <p class="publication-venue">arXiv preprint 2026</p>
         <p class="publication-links">
           <a href="https://arxiv.org/pdf/2610.16027" target="_blank" rel="noopener">pdf</a>
-          <a href="https://github.com/xid32/ECHO" target="_blank" rel="noopener">code</a>
         </p>
       </div>
     </article>
