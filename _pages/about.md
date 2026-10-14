@@ -149,9 +149,9 @@ redirect_from:
         <span class="publication-image-fallback">Image pending</span>
       </figure>
       <div class="publication-body">
-        <h2><a href="https://xid32.github.io/images/publications/ECHO.pdf" target="_blank" rel="noopener">Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents</a></h2>
+        <h2><a href="https://arxiv.org/abs/2610.16027" target="_blank" rel="noopener">Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents</a></h2>
         <p class="publication-authors">Xingjian Diao*, <strong><em>Tianyu Yang*</em></strong>, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang<sup>&dagger;</sup>, Jiang Gui<sup>&dagger;</sup></p>
-        <p class="publication-links"><a href="https://xid32.github.io/images/publications/ECHO.pdf" target="_blank" rel="noopener">pdf</a></p>
+        <p class="publication-links"><a href="https://arxiv.org/pdf/2610.16027" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
 
