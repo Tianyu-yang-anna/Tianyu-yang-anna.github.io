@@ -152,7 +152,10 @@ redirect_from:
         <h2>Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents</h2>
         <p class="publication-authors">Xingjian Diao*, <strong><em>Tianyu Yang*</em></strong>, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang<sup>&dagger;</sup>, Jiang Gui<sup>&dagger;</sup></p>
         <p class="publication-venue">arXiv preprint 2026</p>
-        <p class="publication-links"><a href="https://arxiv.org/pdf/2610.16027" target="_blank" rel="noopener">pdf</a></p>
+        <p class="publication-links">
+          <a href="https://arxiv.org/pdf/2610.16027" target="_blank" rel="noopener">pdf</a>
+          <a href="https://github.com/xid32/ECHO" target="_blank" rel="noopener">code</a>
+        </p>
       </div>
     </article>
 
@@ -189,7 +192,7 @@ redirect_from:
       </figure>
       <div class="publication-body">
         <h2>When Rewards Reshape Alignment: Drift in Self-Evolving Agents</h2>
-        <p class="publication-authors"><strong><em>Tianyu Yang</em></strong><sup>&dagger;</sup>, Austin Tian, Reid A. Johnson, Baoyuan Wang, Xiangliang Zhang<sup>&dagger;</sup></p>
+        <p class="publication-authors"><strong><em>Tianyu Yang</em></strong>, Austin Tian, Reid A. Johnson, Baoyuan Wang, Xiangliang Zhang</p>
         <p class="publication-venue">in submission 2026</p>
       </div>
     </article>
@@ -227,7 +230,10 @@ redirect_from:
         <h2>Deconstructing Multimodal Mathematical Reasoning: Towards a Unified Perception-Alignment-Reasoning Paradigm</h2>
         <p class="publication-authors"><strong><em>Tianyu Yang*</em></strong>, Sihong Wu*, Yilun Zhao*, Zhenwen Liang, Lisen Dai, Chen Zhao, Minhao Cheng, Arman Cohan, Xiangliang Zhang</p>
         <p class="publication-venue">ACL 2026</p>
-        <p class="publication-links"><a href="https://arxiv.org/pdf/2603.08291" target="_blank" rel="noopener">pdf</a></p>
+        <p class="publication-links">
+          <a href="https://arxiv.org/pdf/2603.08291" target="_blank" rel="noopener">pdf</a>
+          <a href="https://github.com/formula12/Awesome-Multimodal-Mathematical-Reasoning-Perception-Alignment-Reasoning" target="_blank" rel="noopener">code</a>
+        </p>
       </div>
     </article>
 
