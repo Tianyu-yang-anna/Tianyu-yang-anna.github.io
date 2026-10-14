@@ -132,7 +132,7 @@ redirect_from:
 
 - *CVPR 2026 / ICCV 2025*, KnowledgeMR: Workshop on Knowledge-Intensive Multimodal Reasoning [[Link](https://knowledgemr-workshop.github.io/)]
 
-- *AAAI 2026*, AI4Research: Workshop on AI for Scientific Research [[Link](https://ai4research-workshop.github.io/)]
+- *AAAI 2026/2027*, AI4Research: Workshop on AI for Scientific Research [[Link](https://ai4research-workshop.github.io/)]
 
 - *CVPR 2025*, Multimodal Mathematical Reasoning Tutorial: Frontiers in Integrating Vision, Language, and Symbolic Representations [[Link](https://cvpr2025mutimodalmathreasoning.github.io/MM_math_reasoning/)]
 
@@ -140,13 +140,17 @@ redirect_from:
 
 <section id="publications" class="home-section publications-section">
   <h1>Selected Publications</h1>
-  <p class="pub-note"><em>* indicates equal contribution</em></p>
+  <p class="pub-note"><em>* indicates equal contribution; &dagger; indicates co-corresponding authors</em></p>
 
   <div class="publication-list">
     <article class="publication-card">
+      <figure class="publication-image">
+        <img src="{{ '/images/publications/echo.webp' | relative_url }}" alt="ECHO framework: responsibility identification, credit allocation, and policy optimization" width="1201" height="389" loading="lazy" decoding="async" onerror="this.parentElement.classList.add('is-missing'); this.remove();">
+        <span class="publication-image-fallback">Image pending</span>
+      </figure>
       <div class="publication-body">
         <h2><a href="https://xid32.github.io/images/publications/ECHO.pdf" target="_blank" rel="noopener">Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents</a></h2>
-        <p class="publication-authors">Xingjian Diao*, <strong><em>Tianyu Yang*</em></strong>, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang, Jiang Gui</p>
+        <p class="publication-authors">Xingjian Diao*, <strong><em>Tianyu Yang*</em></strong>, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang<sup>&dagger;</sup>, Jiang Gui<sup>&dagger;</sup></p>
         <p class="publication-links"><a href="https://xid32.github.io/images/publications/ECHO.pdf" target="_blank" rel="noopener">pdf</a></p>
       </div>
     </article>
