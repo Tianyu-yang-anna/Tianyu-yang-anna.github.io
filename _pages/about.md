@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 seo_title: "Tianyu Yang | University of Notre Dame"
-last_modified_at: 2026-10-14
+last_modified_at: 2026-10-23
 author_profile: true
 redirect_from:
   - /about/
@@ -25,7 +25,7 @@ redirect_from:
       <img class="school-mark" src="{{ '/images/logos/notre-dame.svg' | relative_url }}" alt="University of Notre Dame monogram">, advised by
       <a href="https://engineering.nd.edu/faculty/xiangliang-zhang/" target="_blank" rel="noopener">Professor Xiangliang Zhang</a>
       and grateful for the guidance of
-      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. My research focuses on post-training LLMs and MLLMs to build agents that perceive, reason, and act. I also serve as an Area Chair for ARR 2026.
+      <a href="https://www.yapengtian.com/" target="_blank" rel="noopener">Professor Yapeng Tian</a>. My research focuses on post-training LLMs and MLLMs to build agents that perceive, reason, and act. I also serve as an Area Chair for ARR 2026 and ICASSP 2027.
     </p>
     <p class="internship-line">
       During my Ph.D., I interned at Zillow
@@ -43,6 +43,10 @@ redirect_from:
   <h1>News</h1>
   <div class="news-scroll" role="region" aria-label="Recent news" tabindex="0">
     <ul>
+      <li>
+        <span class="news-date">2026.10</span>
+        <span class="news-content">Served as an Area Chair for NAACL 2026 and ICASSP 2027.</span>
+      </li>
       <li>
         <span class="news-date">2026.10</span>
         <span class="news-content">We are excited to announce the <a href="https://ai4research-workshop.github.io/" target="_blank" rel="noopener">AI4Research Workshop</a> at AAAI 2027. We invite paper submissions.</span>
