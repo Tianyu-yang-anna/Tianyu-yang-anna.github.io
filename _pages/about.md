@@ -2,7 +2,7 @@
 permalink: /
 title: ""
 seo_title: "Tianyu Yang | University of Notre Dame"
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 author_profile: true
 redirect_from:
   - /about/
@@ -45,7 +45,7 @@ redirect_from:
     <ul>
       <li>
         <span class="news-date">2026.10</span>
-        <span class="news-content">Served as an Area Chair for NAACL 2026 and ICASSP 2027.</span>
+        <span class="news-content">Served as an Area Chair for NAACL 2027 and ICASSP 2027.</span>
       </li>
       <li>
         <span class="news-date">2026.10</span>
